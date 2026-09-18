@@ -1,50 +1,23 @@
 site_name: Portail de Veille Technologique
 site_description: Cybersécurité, AIOps & Intelligence Artificielle
-site_author: Veille Tech
 
 theme:
   name: material
   language: fr
   palette:
-    # Mode sombre actif par défaut (très apprécié en tech)
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: cyan
-      accent: deep orange
-      toggle:
-        icon: material/weather-night
-        name: Passer au mode clair
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: cyan
-      accent: deep orange
-      toggle:
-        icon: material/weather-sunny
-        name: Passer au mode sombre
+    scheme: slate
+    primary: cyan
+    accent: deep orange
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.top
-    - navigation.tracking
     - search.suggest
-    - search.highlight
-    - search.share
-    - content.tabs.link
-    - content.code.copy
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.tasklists:
-      custom_checkbox: true
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - attr_list
-  - md_in_html
   - tables
 
 nav:
