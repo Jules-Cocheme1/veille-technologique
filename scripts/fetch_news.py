@@ -63,9 +63,9 @@ def main():
     os.makedirs("docs", exist_ok=True)
     
     for filepath, config in AXES_CONFIG.items():
-        print(f"Génération unique de {filepath}...")
+        print(f"Génération de {filepath}...")
         
-        # On construit TOUT le contenu dans une liste pour tout réécrire d'un coup
+        # Structure de la page
         content = [
             config["title"],
             "",
@@ -84,6 +84,7 @@ def main():
                 content.append(f"### [{art['title']}]({art['link']})")
                 if art['desc']:
                     content.append(f"> {art['desc']}")
+                content.append("")
                 content.append(f"[:octicons-arrow-right-24: Lire l'article]({art['link']})")
                 content.append("")
                 content.append("---")
@@ -96,7 +97,7 @@ def main():
         content.append("")
         content.append("*Page régénérée automatiquement via GitHub Actions.*")
         
-        # Le mode 'w' écrase entièrement l'ancien fichier pour éliminer toute répétition
+        # Le mode 'w' écrase entièrement l'ancien fichier à chaque génération pour éviter les doublons
         with open(filepath, "w", encoding="utf-8") as f:
             f.write("\n".join(content))
 
