@@ -6,7 +6,6 @@ on:
       - main
       - master
   schedule:
-    # Exécution automatique tous les jours à 8h00 UTC
     - cron: '0 8 * * *'
   workflow_dispatch:
 
@@ -30,10 +29,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install mkdocs-material
 
-      - name: Exécution de la veille automatique (Python)
+      - name: Exécution du script de veille
         run: |
           python scripts/fetch_news.py
 
-      - name: Publication du site MkDocs sur GitHub Pages
+      - name: Sauvegarde des fichiers générés sur Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/*.md
+          git commit -m "Auto: Mise à jour du contenu des axes de veille" || echo "Aucun changement à commiter"
+          git push
+
+      - name: Publication du site MkDocs
         run: |
           mkdocs gh-deploy --force
