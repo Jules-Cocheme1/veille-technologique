@@ -1,10 +1,42 @@
-site_name: Ma Veille Technologique
-site_description: Veille automatisée sur la sécurité, l'IA et les réseaux
+site_name: Veille Technologique & Cybersécurité
+site_description: Suivi automatique Sécurité, IA SysAdmin et IA Cyber
+site_author: Ton Nom
+
 theme:
   name: material
+  language: fr
   palette:
-    scheme: slate
-    primary: indigo
+    # Mode clair par défaut, bascule automatique selon le système
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Passer au mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Passer au mode clair
+  features:
+    - navigation.tabs           # Onglets horizontaux en haut
+    - navigation.sections       # Sections bien découpées
+    - navigation.top            # Bouton retour en haut de page
+    - search.suggest            # Autocomplétion dans la recherche
+    - search.highlight          # Surligner le texte recherché
+    - content.code.copy         # Bouton copier sur les blocs de code
+
+markdown_extensions:
+  - admonition                  # Encadrés d'alerte/information (!!! note, !!! warning)
+  - pymdownx.details            # Encadrés dépliables
+  - pymdownx.superfences        # Meilleur rendu du code et schémas
+  - pymdownx.emoji:             # Support des icônes et emojis (:rocket:, :shield:)
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list                   # Gestion des images et styles inline
 
 nav:
   - Accueil: index.md
