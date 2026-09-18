@@ -1,17 +1,36 @@
-site_name: Portail de Veille Technologique
-site_description: Cybersécurité, AIOps & Intelligence Artificielle
+site_name: Veille Technologique
+site_description: Documentation et suivi de ma veille technologique informatique
+site_author: Ton Nom
 
 theme:
   name: material
   language: fr
   palette:
-    scheme: slate
-    primary: cyan
-    accent: deep orange
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Passer au mode sombre
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Passer au mode clair
   features:
     - navigation.tabs
+    - navigation.sections
     - navigation.top
     - search.suggest
+    - search.highlight
+
+nav:
+  - Accueil: index.md
+  - Axe 1 - Sécurité: axe1-securite.md
+  - Axe 2 - IA & Admin: axe2-ia-admin.md
+  - Axe 3 - IA & Cyber: axe3-ia-cyber.md
+  - À propos: a-propos.md
 
 markdown_extensions:
   - admonition
@@ -19,9 +38,3 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - tables
-
-nav:
-  - 🏠 Accueil: index.md
-  - 🚨 Axe 1 - Sécurité (Hebdo): axe1-securite.md
-  - 🤖 Axe 2 - IA SysAdmin (Mensuel): axe2-ia-admin.md
-  - ⚔️ Axe 3 - IA vs Cyber (Trimestriel): axe3-ia-cyber.md
