@@ -1,0 +1,62 @@
+name: Actualiser et Déployer la Veille
+
+on:
+  schedule:
+    # S'exécute tous les lundis à 8h00 UTC
+    - cron: '0 8 * * 1'
+  workflow_dispatch: # Permet d'exécuter manuellement pour tester
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Installer les dépendances
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser mkdocs-material
+
+      - name: Lancer la collecte d'actualités
+        run: python scripts/fetch_news.py
+
+      - name: Sauvegarder les modifications d'actualités
+        run: |
+          git config --global user.name 'GitHub Action Bot'
+          git config --global user.email 'action@github.com'
+          git add docs/
+          git commit -m "Auto-update veille" || echo "Pas de nouvelles données"
+          git push
+
+      - name: Configurer GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Fabriquer le site Web avec MkDocs
+        run: mkdocs build
+
+      - name: Déployer sur GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build-and-deploy
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
