@@ -2,27 +2,31 @@ import os
 import urllib.request
 import xml.etree.ElementTree as ET
 
-# Configuration des axes de veille
 AXES_CONFIG = {
     "docs/axe1-securite.md": {
         "title": "# Axe 1 : Failles de sécurité & Vulnérabilités",
-        "description": "*Mise à jour automatique régulière.*",
-        "feeds": ["https://www.cert.ssi.gouv.fr/feed/"]
+        "badge": "!!! warning \"Périmètre de veille\"\n    Suivi automatisé des vulnérabilités critiques, bulletins du CERT-FR et alertes de sécurité.",
+        "feeds": [
+            {"url": "https://www.cert.ssi.gouv.fr/feed/", "tag": "CERT-FR"}
+        ]
     },
     "docs/axe2-ia-admin.md": {
         "title": "# Axe 2 : L'IA dans l'administration systèmes et réseaux",
-        "description": "*Mise à jour automatique régulière.*",
-        "feeds": ["https://www.it-connect.fr/feed/"]
+        "badge": "!!! info \"Périmètre de veille\"\n    Suivi de l'impact des outils IA sur l'automatisation des infrastructures, les scripts et la gestion réseau.",
+        "feeds": [
+            {"url": "https://www.it-connect.fr/feed/", "tag": "IT-Connect"}
+        ]
     },
     "docs/axe3-ia-cyber.md": {
         "title": "# Axe 3 : IA & Cybersécurité",
-        "description": "*Mise à jour automatique régulière.*",
-        "feeds": ["https://www.zdnet.fr/feeds/rss/actualites/"]
+        "badge": "!!! example \"Périmètre de veille\"\n    Suivi des menaces ciblant l'IA et de l'utilisation de l'IA pour la détection automatisée d'attaques.",
+        "feeds": [
+            {"url": "https://www.zdnet.fr/feeds/rss/actualites/", "tag": "ZDNet"}
+        ]
     }
 }
 
-def fetch_rss_items(url, limit=5):
-    """Récupère et extrait les derniers articles d'un flux RSS sans doublons."""
+def fetch_rss_items(url, tag, limit=6):
     items = []
     seen_links = set()
     try:
@@ -43,15 +47,17 @@ def fetch_rss_items(url, limit=5):
                     
                     if title and link and link not in seen_links:
                         seen_links.add(link)
-                        # Nettoyage sommaire de la description
                         clean_desc = description.split('<')[0].strip() if '<' in description else description.strip()
-                        if len(clean_desc) > 200:
-                            clean_desc = clean_desc[:200] + "..."
+                        if len(clean_desc) > 140:
+                            clean_desc = clean_desc[:140] + "..."
+                        elif not clean_desc:
+                            clean_desc = "Consultez l'article officiel pour lire la synthèse complète des informations."
                             
                         items.append({
                             'title': title.strip(),
                             'link': link.strip(),
-                            'desc': clean_desc
+                            'desc': clean_desc,
+                            'tag': tag
                         })
                     if len(items) >= limit:
                         break
@@ -63,41 +69,43 @@ def main():
     os.makedirs("docs", exist_ok=True)
     
     for filepath, config in AXES_CONFIG.items():
-        print(f"Génération de {filepath}...")
+        print(f"Génération du fichier propre : {filepath}...")
         
-        # Structure de la page
         content = [
             config["title"],
             "",
-            config["description"],
+            config["badge"],
             "",
             "---",
             "",
-            "## 📰 Dernières actualités",
+            "## 📰 Flux de veille en direct",
+            "",
+            '<div class="grid cards" markdown>',
             ""
         ]
         
         articles_added = 0
-        for feed_url in config["feeds"]:
-            articles = fetch_rss_items(feed_url, limit=5)
+        for feed_info in config["feeds"]:
+            articles = fetch_rss_items(feed_info["url"], feed_info["tag"], limit=6)
             for art in articles:
-                content.append(f"### [{art['title']}]({art['link']})")
-                if art['desc']:
-                    content.append(f"> {art['desc']}")
-                content.append("")
-                content.append(f"[:octicons-arrow-right-24: Lire l'article]({art['link']})")
-                content.append("")
-                content.append("---")
+                card = f"-   :material-newspaper: **{art['title']}**\n\n" \
+                       f"    ---\n\n" \
+                       f"    {art['desc']}\n\n" \
+                       f"    [:octicons-arrow-right-24: Consulter la source ({art['tag']})]({art['link']})"
+                content.append(card)
                 content.append("")
                 articles_added += 1
         
+        content.append("</div>")
+        content.append("")
+        
         if articles_added == 0:
-            content.append("*Aucune actualité disponible pour le moment.*")
+            content.append("*Aucune actualité récupérée pour le moment. Prochaine mise à jour sous peu.*")
             
         content.append("")
-        content.append("*Page régénérée automatiquement via GitHub Actions.*")
+        content.append("---")
+        content.append("*Page mise à jour automatiquement via GitHub Actions.*")
         
-        # Le mode 'w' écrase entièrement l'ancien fichier à chaque génération pour éviter les doublons
         with open(filepath, "w", encoding="utf-8") as f:
             f.write("\n".join(content))
 
