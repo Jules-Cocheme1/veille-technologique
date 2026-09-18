@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout du code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Configuration de Python
         uses: actions/setup-python@v5
@@ -33,13 +35,14 @@ jobs:
         run: |
           python scripts/fetch_news.py
 
-      - name: Sauvegarde des fichiers générés sur Git
+      - name: Sauvegarde et fusion des fichiers
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/*.md
           git commit -m "Auto: Mise à jour du contenu des axes de veille" || echo "Aucun changement à commiter"
-          git push
+          git pull --rebase origin main
+          git push origin main
 
       - name: Publication du site MkDocs
         run: |
