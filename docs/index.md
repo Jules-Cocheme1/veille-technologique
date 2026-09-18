@@ -1,29 +1,47 @@
-# 🛡️ Veille Technologique & Cybersécurité
+# 🛡️ Centre de Veille Technologique
 
-Bienvenue sur mon portail de veille automatisé. Ce site suit l'évolution des menaces informatiques, les usages de l'IA dans le sysadmin et le duel IA offensives vs défensives.
+Bienvenue sur le portail de suivi et d'analyse technique. Ce tableau de bord centralise la veille stratégique automatisée sur la cybersécurité et l'intégration de l'IA dans l'infrastructure IT.
 
 ---
 
-## 📌 Les Axes de Veille
+## 📊 Vue d'ensemble des Axes
 
 <div class="grid cards" markdown>
 
--   :shield: **Axe 1 — Failles & Vulnérabilités**
+-   :shield: **Axe 1 — Failles & Sécurité**
     ---
-    Suivi hebdomadaire des alertes **CERT-FR** et des failles Zero-Day majeures.
+    **Fréquence :** `Hebdomadaire`  
+    **Sources :** CERT-FR, NVD, CVE  
+    
+    Suivi des bulletins d'alerte, vulnérabilités Zero-Day et correctifs critiques.
     
     [:octicons-arrow-right-24: Consulter l'Axe 1](axe1-securite.md)
 
--   :robot: **Axe 2 — IA & Admin Sys/Réseau**
+-   :robot: **Axe 2 — IA & SysAdmin**
     ---
-    Suivi mensuel de l'AIOps, de l'automatisation de scripts et du monitoring assisté par IA.
+    **Fréquence :** `Mensuelle`  
+    **Sources :** IT-Connect, Blogs Infra  
+    
+    Automatisation, AIOps, scripts intelligents et outils d'administration assistés par LLM.
     
     [:octicons-arrow-right-24: Consulter l'Axe 2](axe2-ia-admin.md)
 
 -   :swords: **Axe 3 — IA vs Cybersécurité**
     ---
-    Analyse trimestrielle du duel entre **détection augmentée** (EDR/SIEM) et **attaques par IA** (Phishing, Deepfakes).
+    **Fréquence :** `Trimestrielle`  
+    **Sources :** Rapports d'éditeurs  
+    
+    Dossiers de fond sur la confrontation entre attaques générées par IA et détection augmentée.
     
     [:octicons-arrow-right-24: Consulter l'Axe 3](axe3-ia-cyber.md)
 
 </div>
+
+---
+
+## ⚡ Méthodologie & Automatisation
+
+!!! info "Fonctionnement du portail"
+    * **Collecte :** Exécutée automatiquement par **GitHub Actions** via un script Python.
+    * **Mise en page :** Conversion automatique Markdown vers HTML responsive avec **MkDocs Material**.
+    * **Recherche :** Utilisez la barre en haut (`Ctrl + K` / `Cmd + K`) pour filtrer par mot-clé (ex: *Windows*, *Linux*, *Phishing*).
