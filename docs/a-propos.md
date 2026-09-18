@@ -20,6 +20,7 @@ graph TD
     style C fill:#1f2937,stroke:#10b981,stroke-width:2px,color:#fff
     style D fill:#1f2937,stroke:#8b5cf6,stroke-width:2px,color:#fff
     style E fill:#1f2937,stroke:#ef4444,stroke-width:2px,color:#fff
+'''
 
 Axe,Source principale,Méthode d'extraction,Type de contenu récupéré
 Axe 1 (Hebdo),CERT-FR (ssi.gouv.fr),Flux RSS officiel,"Bulletins de sécurité, failles Zero-Day, alertes d'urgence"
