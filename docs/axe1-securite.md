@@ -375,3 +375,39 @@
 
     [:octicons-link-external-16: Consulter le bulletin officiel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1165/)
 
+
+
+## 📅 Relevé du 18/09/2026
+
+!!! warning "[Multiples vulnérabilités dans Roundcube (10 août 2026)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0987/)"
+    * **1. Source & Date :** `CERT-FR` | Publié le `Mon, 10 Aug 2026 00:00:00 +0000`
+    * **2. Niveau de Gravité :** 🟠 **ÉLEVÉE / AVIS**
+    * **3. Résumé de la menace :** De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une falsification de requêtes côté serveur (SSRF).
+    * **4. Impact & Périmètre :** Exposition potentielle des composants affectés, risque d'exécution de code ou d'accès non autorisé.
+    * **5. Action recommandée :** Consulter le bulletin officiel, appliquer les correctifs éditeurs ou restreindre les accès réseau exposés.
+    * **6. Lien officiel :** [:octicons-link-external-16: Accéder à la fiche CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0987/)
+
+!!! warning "[Multiples vulnérabilités dans Mattermost Server (01 septembre 2026)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1098/)"
+    * **1. Source & Date :** `CERT-FR` | Publié le `Tue, 01 Sep 2026 00:00:00 +0000`
+    * **2. Niveau de Gravité :** 🟠 **ÉLEVÉE / AVIS**
+    * **3. Résumé de la menace :** De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.
+    * **4. Impact & Périmètre :** Exposition potentielle des composants affectés, risque d'exécution de code ou d'accès non autorisé.
+    * **5. Action recommandée :** Consulter le bulletin officiel, appliquer les correctifs éditeurs ou restreindre les accès réseau exposés.
+    * **6. Lien officiel :** [:octicons-link-external-16: Accéder à la fiche CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1098/)
+
+!!! warning "[Multiples vulnérabilités dans Mattermost Server (08 septembre 2026)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1128/)"
+    * **1. Source & Date :** `CERT-FR` | Publié le `Tue, 08 Sep 2026 00:00:00 +0000`
+    * **2. Niveau de Gravité :** 🟠 **ÉLEVÉE / AVIS**
+    * **3. Résumé de la menace :** De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un déni de service à distance.
+    * **4. Impact & Périmètre :** Exposition potentielle des composants affectés, risque d'exécution de code ou d'accès non autorisé.
+    * **5. Action recommandée :** Consulter le bulletin officiel, appliquer les correctifs éditeurs ou restreindre les accès réseau exposés.
+    * **6. Lien officiel :** [:octicons-link-external-16: Accéder à la fiche CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1128/)
+
+!!! warning "[Multiples vulnérabilités dans les produits Fortinet (11 septembre 2026)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1166/)"
+    * **1. Source & Date :** `CERT-FR` | Publié le `Fri, 11 Sep 2026 00:00:00 +0000`
+    * **2. Niveau de Gravité :** 🟠 **ÉLEVÉE / AVIS**
+    * **3. Résumé de la menace :** De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
+    * **4. Impact & Périmètre :** Exposition potentielle des composants affectés, risque d'exécution de code ou d'accès non autorisé.
+    * **5. Action recommandée :** Consulter le bulletin officiel, appliquer les correctifs éditeurs ou restreindre les accès réseau exposés.
+    * **6. Lien officiel :** [:octicons-link-external-16: Accéder à la fiche CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1166/)
+
