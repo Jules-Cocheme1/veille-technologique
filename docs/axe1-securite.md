@@ -321,3 +321,57 @@
 
     [:octicons-link-external-16: Consulter le bulletin officiel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1165/)
 
+
+
+## 📅 Mise à jour du 18/09/2026
+
+=== "Multiples vulnérabilités dans Roundcube ..."
+    ### [Multiples vulnérabilités dans Roundcube (10 août 2026)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0987/)
+
+    * **Niveau :** 🟠 **AVIS / ALERTE**
+    * **Publié le :** `Mon, 10 Aug 2026 00:00:00 +0000`
+
+    > De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une falsification de requêtes côté serveur (SSRF).
+
+    [:octicons-link-external-16: Consulter le bulletin officiel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0987/)
+
+=== "Multiples vulnérabilités dans Mattermost..."
+    ### [Multiples vulnérabilités dans Mattermost Server (01 septembre 2026)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1098/)
+
+    * **Niveau :** 🟠 **AVIS / ALERTE**
+    * **Publié le :** `Tue, 01 Sep 2026 00:00:00 +0000`
+
+    > De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.
+
+    [:octicons-link-external-16: Consulter le bulletin officiel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1098/)
+
+=== "Multiples vulnérabilités dans Mattermost..."
+    ### [Multiples vulnérabilités dans Mattermost Server (08 septembre 2026)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1128/)
+
+    * **Niveau :** 🟠 **AVIS / ALERTE**
+    * **Publié le :** `Tue, 08 Sep 2026 00:00:00 +0000`
+
+    > De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un déni de service à distance.
+
+    [:octicons-link-external-16: Consulter le bulletin officiel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1128/)
+
+=== "Multiples vulnérabilités dans les produi..."
+    ### [Multiples vulnérabilités dans les produits Fortinet (11 septembre 2026)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1166/)
+
+    * **Niveau :** 🟠 **AVIS / ALERTE**
+    * **Publié le :** `Fri, 11 Sep 2026 00:00:00 +0000`
+
+    > De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
+
+    [:octicons-link-external-16: Consulter le bulletin officiel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1166/)
+
+=== "Multiples vulnérabilités dans les produi..."
+    ### [Multiples vulnérabilités dans les produits IBM (11 septembre 2026)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1165/)
+
+    * **Niveau :** 🟠 **AVIS / ALERTE**
+    * **Publié le :** `Fri, 11 Sep 2026 00:00:00 +0000`
+
+    > De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
+
+    [:octicons-link-external-16: Consulter le bulletin officiel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1165/)
+
