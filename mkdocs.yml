@@ -6,12 +6,14 @@ theme:
   name: material
   language: fr
   palette:
+    # Mode clair
     - scheme: default
       primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-7
         name: Passer au mode sombre
+    # Mode sombre
     - scheme: slate
       primary: indigo
       accent: indigo
@@ -19,22 +21,26 @@ theme:
         icon: material/brightness-4
         name: Passer au mode clair
   features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.top
-    - search.suggest
-    - search.highlight
-
-nav:
-  - Accueil: index.md
-  - Axe 1 - Sécurité: axe1-securite.md
-  - Axe 2 - IA & Admin: axe2-ia-admin.md
-  - Axe 3 - IA & Cyber: axe3-ia-cyber.md
-  - À propos: a-propos.md
+    - navigation.tabs          # Onglets de navigation en haut
+    - navigation.tabs.sticky   # Onglets fixés quand on défile
+    - navigation.sections      # Sections bien séparées dans le menu
+    - navigation.top           # Bouton "Retour en haut de page" dynamique
+    - navigation.instant       # Chargement instantané des pages (style App Web)
+    - navigation.tracking      # Met à jour l'URL selon la section visible
+    - search.suggest           # Autoplétion dans la barre de recherche
+    - search.highlight         # Surligne les mots recherchés
+    - search.share             # Permet de partager une recherche
+    - content.action.edit      # Bouton pour éditer la page
+    - content.code.copy        # Bouton "Copier" sur tous les blocs de code
 
 markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+  - admonition                 # Encarts d'avertissement / info colorés
+  - pymdownx.details           # Encarts repliables (accordéons)
+  - pymdownx.superfences       # Graphiques et blocs de code avancés
+  - pymdownx.tabbed:           # Onglets interactifs dans le contenu
+      alternate_style: true
+  - pymdownx.emoji:            # Support des icônes et emojis
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - attr_list
   - tables
