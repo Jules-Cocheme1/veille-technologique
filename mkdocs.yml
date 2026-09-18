@@ -1,45 +1,54 @@
-site_name: Veille Technologique & Cybersécurité
-site_description: Suivi automatique Sécurité, IA SysAdmin et IA Cyber
-site_author: Ton Nom
+site_name: Portail de Veille Technologique
+site_description: Cybersécurité, AIOps & Intelligence Artificielle
+site_author: Veille Tech
 
 theme:
   name: material
   language: fr
   palette:
-    # Mode clair par défaut, bascule automatique selon le système
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: blue
-      toggle:
-        icon: material/brightness-7
-        name: Passer au mode sombre
+    # Mode sombre actif par défaut (très apprécié en tech)
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: blue
+      primary: cyan
+      accent: deep orange
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-night
         name: Passer au mode clair
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: cyan
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Passer au mode sombre
   features:
-    - navigation.tabs           # Onglets horizontaux en haut
-    - navigation.sections       # Sections bien découpées
-    - navigation.top            # Bouton retour en haut de page
-    - search.suggest            # Autocomplétion dans la recherche
-    - search.highlight          # Surligner le texte recherché
-    - content.code.copy         # Bouton copier sur les blocs de code
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.tabs.link
+    - content.code.copy
 
 markdown_extensions:
-  - admonition                  # Encadrés d'alerte/information (!!! note, !!! warning)
-  - pymdownx.details            # Encadrés dépliables
-  - pymdownx.superfences        # Meilleur rendu du code et schémas
-  - pymdownx.emoji:             # Support des icônes et emojis (:rocket:, :shield:)
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklists:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - attr_list                   # Gestion des images et styles inline
+  - attr_list
+  - md_in_html
+  - tables
 
 nav:
-  - Accueil: index.md
-  - Axe 1 - Sécurité (Hebdo): axe1-securite.md
-  - Axe 2 - IA & Admin (Mensuel): axe2-ia-admin.md
-  - Axe 3 - IA vs Cyber (Trimestriel): axe3-ia-cyber.md
+  - 🏠 Accueil: index.md
+  - 🚨 Axe 1 - Sécurité (Hebdo): axe1-securite.md
+  - 🤖 Axe 2 - IA SysAdmin (Mensuel): axe2-ia-admin.md
+  - ⚔️ Axe 3 - IA vs Cyber (Trimestriel): axe3-ia-cyber.md
