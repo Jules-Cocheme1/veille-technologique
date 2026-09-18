@@ -2,9 +2,8 @@ name: Actualiser et Déployer la Veille
 
 on:
   schedule:
-    # S'exécute tous les lundis à 8h00 UTC
     - cron: '0 8 * * 1'
-  workflow_dispatch: # Permet d'exécuter manuellement pour tester
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -18,6 +17,8 @@ jobs:
     steps:
       - name: Récupérer le code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Installer Python
         uses: actions/setup-python@v5
@@ -34,11 +35,10 @@ jobs:
 
       - name: Sauvegarder les modifications d'actualités
         run: |
-          git config --global user.name 'GitHub Action Bot'
-          git config --global user.email 'action@github.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add docs/
-          git commit -m "Auto-update veille" || echo "Pas de nouvelles données"
-          git push
+          git diff --staged --quiet || (git commit -m "Auto-update veille" && git push)
 
       - name: Configurer GitHub Pages
         uses: actions/configure-pages@v5
@@ -46,7 +46,7 @@ jobs:
       - name: Fabriquer le site Web avec MkDocs
         run: mkdocs build
 
-      - name: Déployer sur GitHub Pages
+      - name: Déployer l'artefact MkDocs
         uses: actions/upload-pages-artifact@v3
         with:
           path: site
