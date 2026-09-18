@@ -1,0 +1,13 @@
+site_name: Ma Veille Technologique
+site_description: Veille automatisée sur la sécurité, l'IA et les réseaux
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: indigo
+
+nav:
+  - Accueil: index.md
+  - Axe 1 - Sécurité (Hebdo): axe1-securite.md
+  - Axe 2 - IA & Admin (Mensuel): axe2-ia-admin.md
+  - Axe 3 - IA vs Cyber (Trimestriel): axe3-ia-cyber.md
