@@ -9,14 +9,6 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **Multiples vulnérabilités dans Roundcube (10 août 2026)**
-
-    ---
-
-    De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de pro...
-
-    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0987/)
-
 -   :material-newspaper: **Multiples vulnérabilités dans Mattermost Server (01 septembre 2026)**
 
     ---
@@ -33,13 +25,21 @@
 
     [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1128/)
 
--   :material-newspaper: **Multiples vulnérabilités dans les produits Fortinet (11 septembre 2026)**
+-   :material-newspaper: **Bulletin d'actualité CERTFR-2026-ACT-039 (14 septembre 2026)**
 
     ---
 
-    De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un atta...
+    Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leu...
 
-    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1166/)
+    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-039/)
+
+-   :material-newspaper: **Multiples vulnérabilités dans Python (14 septembre 2026)**
+
+    ---
+
+    De multiples vulnérabilités ont été découvertes dans Python. Certaines d'entre elles permettent à un attaquant de provoq...
+
+    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1167/)
 
 </div>
 

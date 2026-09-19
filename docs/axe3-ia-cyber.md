@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **Numspot ajoute de l’IA souveraine managée avec Mistral AI**
+-   :material-newspaper: **Téléviseur OLED ou écran OLED : lequel est le mieux adapté aux créatifs, aux gamers ou aux utilisateurs expérimentés ?**
 
     ---
 
-    Face aux co-entreprises des hyperscalers, Numspot lance de l’IA souveraine de bout-en-bout et managée en partenariat ave...
+    Tous les écrans OLED ne se valent pas en matière de production vidéo et de jeux vidéo exigeants.
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/numspot-ajoute-de-lia-souveraine-managee-avec-mistral-ai-503763.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/pratique/televiseur-oled-ou-ecran-oled-lequel-est-le-mieux-adapte-aux-creatifs-aux-gamers-ou-aux-utilisateurs-experimentes-503653.htm#xtor=RSS-1)
 
--   :material-newspaper: **Revolut, dernier exemple de ces manœuvres malveillantes qui précèdent des rapts crypto**
-
-    ---
-
-    La majeure partie des clients de la banque en ligne ciblés résident en Suisse et en France, selon le Financial Times.
-
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/revolut-dernier-exemple-de-ces-manoeuvres-malveillantes-qui-precedent-des-rapts-crypto-503750.htm#xtor=RSS-1)
-
--   :material-newspaper: **ZDNET Morning 18/09/2026 : Quand l'IA cache ses erreurs, Déploiement facturation électronique, Innovation cyber Chrome,...**
+-   :material-newspaper: **OpenAI piraté grâce à Opus 5 d'Anthropic**
 
     ---
 
-    Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, l...
+    L'accès aux joyaux d'OpenAI n'aura coûté que 3 000 dollars et 72 heures. En exploitant les capacités d'Opus 5, trois che...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/zdnet-morning-18-09-2026-quand-lia-cache-ses-erreurs-deploiement-facturation-electronique-innovation-cyber-chrome-503770.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/openai-pirate-grace-a-opus-5-danthropic-503834.htm#xtor=RSS-1)
 
--   :material-newspaper: **Galaxy S27 Ultra : Samsung pourrait revoir en profondeur la photo de son prochain flagship**
+-   :material-newspaper: **Défense : Thales lance HexaForce, l'alternative souveraine et dopée à l'IA face à Palantir**
 
     ---
 
-    Le futur Galaxy S27 Ultra pourrait marquer un tournant pour Samsung en matière de photographie. Selon plusieurs fuites, ...
+    Face à l'explosion des données sur les théâtres d'opérations, Thales dévoile HexaForce. Ce système de commandement multi...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/galaxy-s27-ultra-samsung-pourrait-revoir-en-profondeur-la-photo-de-son-prochain-flagship-503756.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/defense-thales-lance-hexaforce-lalternative-souveraine-et-dopee-a-lia-face-a-palantir-503822.htm#xtor=RSS-1)
+
+-   :material-newspaper: **La nouvelle version des projets de Claude Code intègre l'orchestration par IA, mais seulement dans le cloud**
+
+    ---
+
+    Claude Code Projects pourrait révolutionner la manière dont les développeurs gèrent les workflows complexes de codage av...
+
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/la-nouvelle-version-des-projets-de-claude-code-integre-lorchestration-par-ia-mais-seulement-dans-le-cloud-503796.htm#xtor=RSS-1)
 
 </div>
 
