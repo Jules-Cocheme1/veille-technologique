@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **Téléviseur OLED ou écran OLED : lequel est le mieux adapté aux créatifs, aux gamers ou aux utilisateurs expérimentés ?**
+-   :material-newspaper: **iPhone 18 Pro Max vs Pixel 11 Pro XL : les différences qui pourraient bien tester votre fidélité**
 
     ---
 
-    Tous les écrans OLED ne se valent pas en matière de production vidéo et de jeux vidéo exigeants.
+    Assistant IA, retouche photo, connectivité Bluetooth : nous passons en revue les véritables différences entre l'iPhone 1...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/pratique/televiseur-oled-ou-ecran-oled-lequel-est-le-mieux-adapte-aux-creatifs-aux-gamers-ou-aux-utilisateurs-experimentes-503653.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/guide-achat/iphone-18-pro-max-vs-pixel-11-pro-xl-les-differences-qui-pourraient-bien-tester-votre-fidelite-503771.htm#xtor=RSS-1)
 
--   :material-newspaper: **OpenAI piraté grâce à Opus 5 d'Anthropic**
-
-    ---
-
-    L'accès aux joyaux d'OpenAI n'aura coûté que 3 000 dollars et 72 heures. En exploitant les capacités d'Opus 5, trois che...
-
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/openai-pirate-grace-a-opus-5-danthropic-503834.htm#xtor=RSS-1)
-
--   :material-newspaper: **Défense : Thales lance HexaForce, l'alternative souveraine et dopée à l'IA face à Palantir**
+-   :material-newspaper: **Forge des communs numériques éducatifs: des ressources libres produites par les enseignants**
 
     ---
 
-    Face à l'explosion des données sur les théâtres d'opérations, Thales dévoile HexaForce. Ce système de commandement multi...
+    Moins de trois ans après sa création, la Forge des communs numériques éducatifs rassemble 10.000 projets. Une réussite q...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/defense-thales-lance-hexaforce-lalternative-souveraine-et-dopee-a-lia-face-a-palantir-503822.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/blogs/l-esprit-libre/forge-des-communs-numeriques-educatifs-des-ressources-libres-produites-par-les-enseignants-503844.htm#xtor=RSS-1)
 
--   :material-newspaper: **La nouvelle version des projets de Claude Code intègre l'orchestration par IA, mais seulement dans le cloud**
+-   :material-newspaper: **PocketPal AI : l'IA 100 % locale et gratuite qui protège vraiment votre vie privée sur mobile**
 
     ---
 
-    Claude Code Projects pourrait révolutionner la manière dont les développeurs gèrent les workflows complexes de codage av...
+    Sans connexion internet ni collecte de données, l'application gratuite PocketPal AI permet de faire tourner une IA direc...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/la-nouvelle-version-des-projets-de-claude-code-integre-lorchestration-par-ia-mais-seulement-dans-le-cloud-503796.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/pratique/pocketpal-ai-lia-100-locale-et-gratuite-qui-protege-vraiment-votre-vie-privee-sur-mobile-503675.htm#xtor=RSS-1)
+
+-   :material-newspaper: **pearOS, c'est le macOS de Linux, et sa dernière version est meilleure que jamais**
+
+    ---
+
+    Avec cette nouvelle version, le développeur peaufine l'aspect « Liquid Glass » de pearOS grâce à une multitude d'amélior...
+
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/guide-achat/pearos-cest-le-macos-de-linux-et-sa-derniere-version-est-meilleure-que-jamais-503816.htm#xtor=RSS-1)
 
 </div>
 
