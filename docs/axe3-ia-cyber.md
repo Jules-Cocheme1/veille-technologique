@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **iPhone 18 Pro Max vs Pixel 11 Pro XL : les différences qui pourraient bien tester votre fidélité**
+-   :material-newspaper: **Une erreur d’analyse de l’IA a failli déclencher un affrontement militaire entre les États-Unis et la Chine**
 
     ---
 
-    Assistant IA, retouche photo, connectivité Bluetooth : nous passons en revue les véritables différences entre l'iPhone 1...
+    Une analyse erronée générée avec l’aide d’une intelligence artificielle aurait conduit l’armée américaine à croire qu’un...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/guide-achat/iphone-18-pro-max-vs-pixel-11-pro-xl-les-differences-qui-pourraient-bien-tester-votre-fidelite-503771.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/une-erreur-danalyse-de-lia-a-failli-declencher-un-affrontement-militaire-entre-les-etats-unis-et-la-chine-503871.htm#xtor=RSS-1)
 
--   :material-newspaper: **Forge des communs numériques éducatifs: des ressources libres produites par les enseignants**
-
-    ---
-
-    Moins de trois ans après sa création, la Forge des communs numériques éducatifs rassemble 10.000 projets. Une réussite q...
-
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/blogs/l-esprit-libre/forge-des-communs-numeriques-educatifs-des-ressources-libres-produites-par-les-enseignants-503844.htm#xtor=RSS-1)
-
--   :material-newspaper: **PocketPal AI : l'IA 100 % locale et gratuite qui protège vraiment votre vie privée sur mobile**
+-   :material-newspaper: **ZDNET Morning 21/09/2026 : Thales riposte à Palantir, Comment vendre un "iPhone Duo" hors de prix, Numspot s'allie à Mistral AI,...**
 
     ---
 
-    Sans connexion internet ni collecte de données, l'application gratuite PocketPal AI permet de faire tourner une IA direc...
+    Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, l...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/pratique/pocketpal-ai-lia-100-locale-et-gratuite-qui-protege-vraiment-votre-vie-privee-sur-mobile-503675.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/zdnet-morning-21-09-2026-thales-riposte-a-palantir-comment-vendre-un-iphone-duo-hors-de-prix-numspot-sallie-a-mistral-ai-503887.htm#xtor=RSS-1)
 
--   :material-newspaper: **pearOS, c'est le macOS de Linux, et sa dernière version est meilleure que jamais**
+-   :material-newspaper: **OpenAI dévoile Astra for Law, une IA pensée pour la pratique juridique**
 
     ---
 
-    Avec cette nouvelle version, le développeur peaufine l'aspect « Liquid Glass » de pearOS grâce à une multitude d'amélior...
+    Astra for Law accompagne la révision de contrats, la rédaction de documents juridiques et l’ensemble des tâches courante...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/guide-achat/pearos-cest-le-macos-de-linux-et-sa-derniere-version-est-meilleure-que-jamais-503816.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/openai-devoile-astra-for-law-une-ia-pensee-pour-la-pratique-juridique-503877.htm#xtor=RSS-1)
+
+-   :material-newspaper: **ZD Tech : Ce script caché sur AliExpress bloque vos écouteurs Bluetooth pour vous pister sans aucun cookie**
+
+    ---
+
+    Vous avez remarqué que votre casque multipoint refuse parfois de basculer sur votre smartphone ? Le coupable pourrait bi...
+
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/zd-tech-ce-script-cache-sur-aliexpress-bloque-vos-ecouteurs-bluetooth-pour-vous-pister-sans-aucun-cookie-502834.htm#xtor=RSS-1)
 
 </div>
 
