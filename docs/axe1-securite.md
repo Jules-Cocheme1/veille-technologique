@@ -25,21 +25,21 @@
 
     [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1128/)
 
--   :material-newspaper: **Bulletin d'actualité CERTFR-2026-ACT-039 (14 septembre 2026)**
+-   :material-newspaper: **Multiples vulnérabilités dans Microsoft Edge (15 septembre 2026)**
 
     ---
 
-    Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leu...
+    De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une él...
 
-    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-039/)
+    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1173/)
 
--   :material-newspaper: **Multiples vulnérabilités dans Python (14 septembre 2026)**
+-   :material-newspaper: **Multiples vulnérabilités dans les produits Cisco (15 septembre 2026)**
 
     ---
 
-    De multiples vulnérabilités ont été découvertes dans Python. Certaines d'entre elles permettent à un attaquant de provoq...
+    De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaqua...
 
-    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1167/)
+    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1175/)
 
 </div>
 
