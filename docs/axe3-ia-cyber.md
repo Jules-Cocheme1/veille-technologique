@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **OpenAI gagne du terrain avec GPT-6 Astra... Anthropic prépare sa riposte : un nouveau Claude se profile**
+-   :material-newspaper: **Google Book à 899 dollars : le prix qui défie la flambée des coûts des composants ?**
 
     ---
 
-    Alors qu’OpenAI accélère la course à l’IA avec son modèle « GPT-6 Astra », Anthropic préparerait à son tour une nouvelle...
+    Google veut imposer une nouvelle génération d’ordinateurs portables mêlant l’écosystème Android et ChromeOS et des fonct...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/openai-gagne-du-terrain-avec-gpt-6-astra-anthropic-prepare-sa-riposte-un-nouveau-claude-se-profile-504238.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/google-book-a-899-dollars-le-prix-de-ce-nouveau-pc-portable-souleve-des-questions-sur-ses-couts-504321.htm#xtor=RSS-1)
 
--   :material-newspaper: **ZDNET Morning 22/09/2026 : Quand les IA trichent, ESN et fin du jour-homme, Airbus quitte les clouds US,...**
-
-    ---
-
-    Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, l...
-
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/zdnet-morning-22-09-2026-quand-les-ia-trichent-esn-et-fin-du-jour-homme-airbus-quitte-les-clouds-us-504254.htm#xtor=RSS-1)
-
--   :material-newspaper: **xAI lance Grok 4.7, plus performant en codage et en tâches professionnelles**
+-   :material-newspaper: **L’Europe veut imposer un nutriscore aux datacenters, pourquoi les géants du secteur craignent un piège**
 
     ---
 
-    Grok 4.7 se distingue par sa capacité à mener des tâches longues et à vérifier ses propres résultats, tout en conservant...
+    Si l'industrie salue cet effort de transparence indispensable, elle tire la sonnette d'alarme : ce barème unique risque ...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/xai-lance-grok-4-7-plus-performant-en-codage-et-en-taches-professionnelles-504236.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/leurope-veut-imposer-un-nutriscore-aux-datacenters-voici-pourquoi-les-geants-du-secteur-craignent-un-piege-504303.htm#xtor=RSS-1)
 
--   :material-newspaper: **ZD Tech : Voici pourquoi Airbus retire 900 applications majeures des clouds américains pour choisir le français Scaleway**
+-   :material-newspaper: **Qualcomm scinde son offre haut de gamme et arme ses puces pour l’IA agentique**
 
     ---
 
-    Pour protéger ses secrets industriels d'éventuelles ingérences, le géant de l'aéronautique opère un virage. En misant su...
+    Qualcomm a dévoilé le Snapdragon 8 Elite 6e génération et sa version Extreme, deux puces mobiles gravées en 2 nm, capabl...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/zd-tech-voici-pourquoi-airbus-retire-900-applications-majeures-des-clouds-americains-pour-choisir-le-francais-scaleway-502835.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/qualcomm-scinde-son-offre-haut-de-gamme-et-arme-ses-puces-pour-lia-agentique-504318.htm#xtor=RSS-1)
+
+-   :material-newspaper: **GPT-6 Sol d’OpenAI double son taux de précision… pour la moitié du prix**
+
+    ---
+
+    GPT-6 Sol et Luna font leur apparition moins de trois mois après GPT-5.6. OpenAI annonce des gains de précision signific...
+
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/gpt-6-sol-dopenai-double-son-taux-de-precision-pour-la-moitie-du-prix-504315.htm#xtor=RSS-1)
 
 </div>
 
