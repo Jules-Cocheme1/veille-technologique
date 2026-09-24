@@ -25,14 +25,6 @@
 
     [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1175/)
 
--   :material-newspaper: **Vulnérabilité dans Microsoft Windows (15 septembre 2026)**
-
-    ---
-
-    Une vulnérabilité a été découverte dans Microsoft Windows. Elle permet à un attaquant de provoquer une élévation de priv...
-
-    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1174/)
-
 -   :material-newspaper: **Multiples vulnérabilités dans Oracle Virtualization (16 septembre 2026)**
 
     ---
@@ -40,6 +32,14 @@
     De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un atta...
 
     [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1188/)
+
+-   :material-newspaper: **Multiples vulnérabilités dans Docker (16 septembre 2026)**
+
+    ---
+
+    De multiples vulnérabilités ont été découvertes dans Docker. Certaines d'entre elles permettent à un attaquant de provoq...
+
+    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1189/)
 
 </div>
 

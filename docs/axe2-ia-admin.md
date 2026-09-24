@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **Data centers : les États-Unis pèsent plus lourd que 14 pays réunis**
+-   :material-newspaper: **Discord déploie la vérification de l’âge sans pièce d’identité ni selfie**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/data-centers-les-etats-unis-pesent-plus-lourd-que-14-pays-reunis/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/discord-verification-age-sans-piece-identite-selfie/)
 
--   :material-newspaper: **Le FBI piraté ? ShinyHunters ne veut pas d’argent, mais le retrait d’un rapport**
-
-    ---
-
-    Consulter le bulletin officiel pour accéder aux détails techniques.
-
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/shinyhunters-piratage-fbi-oracle-peoplesoft-zero-day/)
-
--   :material-newspaper: **Ransomware PAYLOAD : les pirates ont paralysé une entreprise avec deux GPO, sans chiffrer un seul fichier**
+-   :material-newspaper: **Windows 11 : les mises à jour de septembre 2026 cassent le VPN Always On**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/ransomware-payload-gpo-active-directory-sans-chiffrement/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/windows-11-mises-a-jour-septembre-2026-always-on-vpn/)
 
--   :material-newspaper: **Valve publie Lepton pour jouer à des jeux Android sous Linux**
+-   :material-newspaper: **Windows 11 KB5124010 : l’Explorateur de fichiers prévisualise de nouveau les fichiers téléchargés**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/valve-lepton-jeux-android-linux/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/windows-11-kb5124010-apercu-fichiers-telecharges-explorateur/)
+
+-   :material-newspaper: **97 % des victimes de ransomware avaient le MFA : où sont les angles morts ?**
+
+    ---
+
+    Consulter le bulletin officiel pour accéder aux détails techniques.
+
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/97-des-victimes-de-ransomware-avaient-le-mfa-ou-sont-les-angles-morts/)
 
 </div>
 
