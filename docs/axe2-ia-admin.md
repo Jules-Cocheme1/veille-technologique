@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **Jev : cette IA qui ne génère aucun texte défie les LLM**
+-   :material-newspaper: **Après MDT, Microsoft lâche WDS : le rôle sera déprécié dans le prochain Windows Server**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/jev-typesafe-ia-decisions-typees-llm/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/microsoft-deprecie-wds-windows-server/)
 
--   :material-newspaper: **TeamFiltration : 7 comptes Microsoft 365 compromis, tous des comptes de service oubliés**
-
-    ---
-
-    Consulter le bulletin officiel pour accéder aux détails techniques.
-
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/teamfiltration-comptes-service-microsoft-365-mots-de-passe-par-defaut/)
-
--   :material-newspaper: **Un agent IA d’OpenAI a piraté un portail du gouvernement australien**
+-   :material-newspaper: **Windows 11 26H2 : voici comment télécharger l’image ISO d’évaluation**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/openai-agent-ia-portail-medicare-australie/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/windows-11-26h2-iso-evaluation-ekb/)
 
--   :material-newspaper: **Veeam Agent pour Windows : la faille CVE-2026-32996 offre les privilèges SYSTEM, un exploit est public**
+-   :material-newspaper: **Microsoft dévoile le nouveau Copilot avec Home, Code et Autopilot : l’essentiel à savoir**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/veeam-agent-windows-faille-cve-2026-32996-privileges-system/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/nouveau-copilot-home-code-autopilot/)
+
+-   :material-newspaper: **Forensic Windows – Partie 13 : analyser les Jump Lists**
+
+    ---
+
+    Consulter le bulletin officiel pour accéder aux détails techniques.
+
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/forensic-windows-jump-lists/)
 
 </div>
 
