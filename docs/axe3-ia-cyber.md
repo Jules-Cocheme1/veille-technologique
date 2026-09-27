@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **J'ai testé la première montre de sport AMOLED solaire au monde — voici comment fonctionne la charge**
+-   :material-newspaper: **Résistant à l'eau, coussinets interchangeables : le Beats 360 réinvente le casque circum-aural**
 
     ---
 
-    Amazfit dote sa nouvelle T-Rex Dual Solar d'une fonctionnalité qu'aucun de ses concurrents ne propose actuellement.
+    Résistant à l'eau et doté de coussinets interchangeables évacuant la transpiration, le Beats 360 se distingue moins par ...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/guide-achat/jai-teste-la-premiere-montre-de-sport-amoled-solaire-au-monde-voici-comment-fonctionne-la-charge-504387.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/guide-achat/resistant-a-leau-coussinets-interchangeables-le-beats-360-reinvente-le-casque-circum-aural-504403.htm#xtor=RSS-1)
 
--   :material-newspaper: **Android pratique : Adobe Premiere enfin disponible sur le Play Store**
-
-    ---
-
-    Même en version gratuite, cette application de montage vidéo regorge de fonctionnalités et est très simple d'utilisation...
-
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/guide-achat/android-pratique-adobe-premiere-enfin-disponible-sur-le-play-store-504519.htm#xtor=RSS-1)
-
--   :material-newspaper: **OpenStreetMap France: "Des données et d’abord des gens"**
+-   :material-newspaper: **Linux pratique : testez ces 5 distributions pour l'IA**
 
     ---
 
-    L’association française qui soutient le projet de cartographie collaborative a fait le point avec le podcast Projets Lib...
+    Si vous souhaitez utiliser l'intelligence artificielle sous l’OS libre, découvrez ces options.
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/blogs/l-esprit-libre/openstreetmap-france-des-donnees-et-dabord-des-gens-504539.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/guide-achat/linux-pratique-testez-ces-5-distributions-pour-lia-503802.htm#xtor=RSS-1)
 
--   :material-newspaper: **iPhone pratique : créez des cartes personnalisées dans Wallet sous iOS 27**
+-   :material-newspaper: **Comment j'ai migré vers mon nouveau PC Windows en quelques minutes, grâce à cette appli gratuite**
 
     ---
 
-    La dernière version du système d’exploitation mobile d’Apple a amélioré l’application Cartes pour la rendre encore plus ...
+    Vous redoutez déjà l'idée de devoir télécharger et installer des dizaines d'applications sur votre nouveau PC ? J'ai une...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/pratique/iphone-pratique-creez-des-cartes-personnalisees-dans-wallet-sous-ios-27-504481.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/pratique/comment-jai-migre-vers-mon-nouveau-pc-windows-en-quelques-minutes-grace-a-cette-appli-gratuite-504465.htm#xtor=RSS-1)
+
+-   :material-newspaper: **Avis GoMoWorld 2026 : que vaut vraiment cette eSIM de voyage ? Notre avis complet**
+
+    ---
+
+    Avis GoMoWorld 2026 : prix, couverture et performances de cette eSIM voyage. Notre avis complet avant de télécharger l'a...
+
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/guide-achat/avis-gomoworld-2026-que-vaut-vraiment-cette-esim-de-voyage-notre-avis-complet-504474.htm#xtor=RSS-1)
 
 </div>
 
