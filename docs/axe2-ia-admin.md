@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **Après MDT, Microsoft lâche WDS : le rôle sera déprécié dans le prochain Windows Server**
+-   :material-newspaper: **« Éteignez vos NetScaler » : Citrix confirme 2 failles zero-day critiques déjà exploitées**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/microsoft-deprecie-wds-windows-server/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/citrix-netscaler-cve-2026-88771-cve-2026-88772-zero-day-exploitees/)
 
--   :material-newspaper: **Windows 11 26H2 : voici comment télécharger l’image ISO d’évaluation**
-
-    ---
-
-    Consulter le bulletin officiel pour accéder aux détails techniques.
-
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/windows-11-26h2-iso-evaluation-ekb/)
-
--   :material-newspaper: **Microsoft dévoile le nouveau Copilot avec Home, Code et Autopilot : l’essentiel à savoir**
+-   :material-newspaper: **OVHcloud confirme OVHai Workspace, son alternative à Microsoft 365 dopée à l’IA**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/nouveau-copilot-home-code-autopilot/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/ovhcloud-ovhai-workspace-alternative-microsoft-365/)
 
--   :material-newspaper: **Forensic Windows – Partie 13 : analyser les Jump Lists**
+-   :material-newspaper: **Proxmox VE : renommer les interfaces réseau avec pve-network-interface-pinning**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/forensic-windows-jump-lists/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/proxmox-ve-renommer-interface-reseau/)
+
+-   :material-newspaper: **Microsoft suspend la mise à jour KB5002907 : elle peut désactiver la licence Office**
+
+    ---
+
+    Consulter le bulletin officiel pour accéder aux détails techniques.
+
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/microsoft-suspend-kb5002907-office-2016-2019-desactive/)
 
 </div>
 
