@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **ZDNET Morning 28/09/2026 : Copilot devient un agent d'exécution autonome, 4 pistes pour le futur casque RA d'Apple, L'invasion des micro-dramas,...**
+-   :material-newspaper: **Déplacement, salon, mission courte : GoMoWorld simplifie la connexion mobile**
 
     ---
 
-    Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, l...
+    Pour les déplacements professionnels, GoMoWorld propose une eSIM sans carte physique, avec des forfaits data dans plus d...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/zdnet-morning-28-09-2026-copilot-devient-un-agent-dexecution-autonome-4-pistes-pour-le-futur-casque-ra-dapple-linvasion-des-micro-dramas-504582.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/publicite/deplacement-salon-mission-courte-gomoworld-simplifie-la-connexion-mobile-504289.htm#xtor=RSS-1)
 
--   :material-newspaper: **Microsoft transforme Copilot en « IA d’exécution des tâches » et dévoile Home, Code et Autopilot**
-
-    ---
-
-    Microsoft veut faire de Copilot bien plus qu’un assistant conversationnel. Avec Home, Code et Autopilot, l’entreprise po...
-
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/microsoft-transforme-copilot-en-ia-dexecution-des-taches-et-devoile-home-code-et-autopilot-504567.htm#xtor=RSS-1)
-
--   :material-newspaper: **Apple teste quatre concepts pour succéder au Vision Pro**
+-   :material-newspaper: **Un ordinateur quantique a fonctionné en orbite pour la première fois**
 
     ---
 
-    Apple étudierait plusieurs solutions techniques pour son prochain casque de réalité mixte, dont un module externe pour l...
+    Une équipe de l'université de Vienne a réussi à faire fonctionner un processeur quantique photonique à bord d'un satelli...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/apple-teste-quatre-concepts-pour-succeder-au-vision-pro-504568.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/un-ordinateur-quantique-a-fonctionne-en-orbite-pour-la-premiere-fois-504658.htm#xtor=RSS-1)
 
--   :material-newspaper: **ZD Tech : Voici comment des séries chinoises de 80 secondes génèrent des millions en France et font paniquer les géants de la tech**
+-   :material-newspaper: **Meta recrute le PDG de MongoDB pour sa nouvelle offensive IA en entreprise**
 
     ---
 
-    Fini les films de deux heures, la nouvelle guerre de l'attention se joue désormais en 80 secondes. Ces micro-dramas addi...
+    Chirantan « CJ » Desai, jusqu’alors PDG de MongoDB, va prendre la tête de la nouvelle division de Meta dédiée à l’IA d’e...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/zd-tech-voici-comment-des-series-chinoises-de-80-secondes-generent-des-millions-en-france-et-font-paniquer-les-geants-de-la-tech-502839.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/meta-recrute-le-pdg-de-mongodb-pour-sa-nouvelle-offensive-ia-en-entreprise-504656.htm#xtor=RSS-1)
+
+-   :material-newspaper: **ZD Tech : L'internet quantique fonctionne enfin sur la fibre optique classique**
+
+    ---
+
+    Le spectre d'une infrastructure hors de prix pour le quantique s'éloigne. Il peut fonctionner sur nos réseaux en fibre o...
+
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/zd-tech-linternet-quantique-fonctionne-enfin-sur-la-fibre-optique-classique-502840.htm#xtor=RSS-1)
 
 </div>
 
