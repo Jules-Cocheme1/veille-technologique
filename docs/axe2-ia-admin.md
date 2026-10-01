@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **5 minutes pour voler le hash du mot de passe root sous Linux avec BTR, une variante de Spectre v2**
+-   :material-newspaper: **DAWO : les Pays-Bas misent sur NixOS pour remplacer Windows 11 et Microsoft**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/spectre-v2-btr-linux-hash-mot-de-passe-root/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/dawo-pays-bas-poste-travail-souverain-nixos/)
 
--   :material-newspaper: **Apple a corrigé une faille CoreGraphics exploitée pour cibler des utilisateurs d’iPhone (CVE-2026-86950)**
-
-    ---
-
-    Consulter le bulletin officiel pour accéder aux détails techniques.
-
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/apple-cve-2026-86950-faille-zero-day-coregraphics/)
-
--   :material-newspaper: **Signal : les sauvegardes locales chiffrées, sur disque ou NAS, arrivent sur iPhone, Windows, macOS et Linux**
+-   :material-newspaper: **Faille Metabase : l’ANSSI et la DINUM victimes d’une fuite de données**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/signal-sauvegardes-locales-iphone-desktop/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/anssi-dinum-fuite-donnees-metabase/)
 
--   :material-newspaper: **Windows 11 26H2 est disponible : nouveautés, support et installation**
+-   :material-newspaper: **Windows 11 26H2 à peine sorti, Microsoft liste déjà 3 bugs, et chez vous ?**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/windows-11-26h2-disponible-mise-a-jour-2026/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/windows-11-26h2-problemes-connus/)
+
+-   :material-newspaper: **Thunderbird 157 corrige le bug du CPU à 100 % et 76 failles de sécurité**
+
+    ---
+
+    Consulter le bulletin officiel pour accéder aux détails techniques.
+
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/thunderbird-157-correctifs-cpu-openpgp-imap/)
 
 </div>
 
