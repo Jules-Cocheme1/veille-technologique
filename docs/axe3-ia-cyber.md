@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **AMD dévoile ses puces Ryzen AI Max+ Pro 400 pour exécuter des modèles d’IA en local**
+-   :material-newspaper: **ZD Tech : Puces IA, voici pourquoi l'accord secret entre SK Hynix et Intel change tout**
 
     ---
 
-    AMD lance officiellement sa nouvelle génération de processeurs Ryzen AI Max+ Pro 400, conçue pour exécuter localement de...
+    En coulisses, le géant SK Hynix négocie avec Intel la fabrication de puces IA aux États-Unis pour contourner les menaces...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/amd-muscle-ses-pc-pour-lia-avec-larrivee-des-puces-ryzen-ai-max-pro-400-504875.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/zd-tech-puces-ia-voici-pourquoi-laccord-secret-entre-sk-hynix-et-intel-change-tout-504831.htm#xtor=RSS-1)
 
--   :material-newspaper: **Galaxy SmartTag3 : Samsung mise sur la précision et la compatibilité iOS**
-
-    ---
-
-    Plus compact, à la portée et à la précision améliorées, le Galaxy SmartTag3 est pour la première fois compatible avec le...
-
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/galaxy-smarttag3-samsung-mise-sur-la-precision-et-la-compatibilite-ios-504872.htm#xtor=RSS-1)
-
--   :material-newspaper: **ZD Tech : Comment l'IA Gemini de Google a piraté trois entreprises**
+-   :material-newspaper: **ZDNET Morning 02/10/2026 : Affaire Bardella : les leçons techniques,  Elon Musk à la tête du « Project Meridian », IBM déploie une version on-premise de "Bob",...**
 
     ---
 
-    Si Google salue l'arrêt autonome de l'attaque, cet incident soulève de sérieuses craintes pour la cybersécurité.
+    Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, l...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/zd-tech-comment-lia-gemini-de-google-a-pirate-trois-entreprises-504829.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/zdnet-morning-02-10-2026-affaire-bardella-les-lecons-techniques-elon-musk-a-la-tete-du-project-meridian-ibm-deploie-une-version-on-premise-de-bob-505024.htm#xtor=RSS-1)
 
--   :material-newspaper: **Gemini 4 Argon : Google muscle son IA pour détecter les failles de sécurité**
+-   :material-newspaper: **Drones, missiles hypersoniques, armes autonomes : Elon Musk chargé d'anticiper la guerre du futur**
 
     ---
 
-    Gemini 4 Argon est un modèle d’IA destiné aux tâches complexes en entreprise et à la cybersécurité. Dans un premier temp...
+    Le patron de SpaceX rejoint le « Project Meridian », une mission de 120 jours consacrée à l’évolution de la guerre et au...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/gemini-4-argon-google-muscle-son-ia-pour-detecter-les-failles-de-securite-504868.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/drones-missiles-hypersoniques-armes-autonomes-elon-musk-charge-danticiper-la-guerre-du-futur-505010.htm#xtor=RSS-1)
+
+-   :material-newspaper: **IBM lance une version auto-hébergée de Bob pour garder code et données chez le client**
+
+    ---
+
+    IBM propose désormais IBM Bob, sa plateforme de développement logiciel agentique, en version auto-hébergée : sur site, e...
+
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/ibm-lance-une-version-auto-hebergee-de-bob-pour-garder-code-et-donnees-chez-le-client-505007.htm#xtor=RSS-1)
 
 </div>
 

@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **DAWO : les Pays-Bas misent sur NixOS pour remplacer Windows 11 et Microsoft**
+-   :material-newspaper: **Installation et utilisation de Claude Code : premiers pas**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/dawo-pays-bas-poste-travail-souverain-nixos/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/tuto-installation-et-utilisation-de-claude-code/)
 
--   :material-newspaper: **Faille Metabase : l’ANSSI et la DINUM victimes d’une fuite de données**
-
-    ---
-
-    Consulter le bulletin officiel pour accéder aux détails techniques.
-
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/anssi-dinum-fuite-donnees-metabase/)
-
--   :material-newspaper: **Windows 11 26H2 à peine sorti, Microsoft liste déjà 3 bugs, et chez vous ?**
+-   :material-newspaper: **GLPI 11.0.11 et GLPI 10.0.28 : 8 failles patchées et la fin annoncée de GLPI 10**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/windows-11-26h2-problemes-connus/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/glpi-11-0-10-10-0-28-failles-fin-glpi-10/)
 
--   :material-newspaper: **Thunderbird 157 corrige le bug du CPU à 100 % et 76 failles de sécurité**
+-   :material-newspaper: **TeamViewer a corrigé 5 failles de sécurité, dont une exploitable à distance**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/thunderbird-157-correctifs-cpu-openpgp-imap/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/teamviewer-5-failles-securite-version-15-82/)
+
+-   :material-newspaper: **Stockage S3 souverain en France : comment créer des sauvegardes Veeam immuables avec Leviia Storag3**
+
+    ---
+
+    Consulter le bulletin officiel pour accéder aux détails techniques.
+
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/leviia-storag3-sauvegardes-immuables-s3/)
 
 </div>
 
