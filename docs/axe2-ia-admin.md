@@ -9,6 +9,14 @@
 
 <div class="grid cards" markdown>
 
+-   :material-newspaper: **Je suis passé de Windows à macOS depuis 6 mois : voici mon retour d’expérience**
+
+    ---
+
+    Consulter le bulletin officiel pour accéder aux détails techniques.
+
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/windows-vers-mac-bilan-mon-experience/)
+
 -   :material-newspaper: **Installation et utilisation de Claude Code : premiers pas**
 
     ---
@@ -32,14 +40,6 @@
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
     [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/teamviewer-5-failles-securite-version-15-82/)
-
--   :material-newspaper: **Stockage S3 souverain en France : comment créer des sauvegardes Veeam immuables avec Leviia Storag3**
-
-    ---
-
-    Consulter le bulletin officiel pour accéder aux détails techniques.
-
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/leviia-storag3-sauvegardes-immuables-s3/)
 
 </div>
 
