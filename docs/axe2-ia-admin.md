@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **Les règles de détection publiques : une arme à double tranchant**
+-   :material-newspaper: **Windows devient une plateforme pour agents IA : Microsoft lance MXC, des modèles en local et les PC RTX Spark**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/regles-de-detection-publiques-une-arme-a-double-tranchant/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/windows-hybrid-intelligence-mxc-agents-rtx-spark/)
 
--   :material-newspaper: **Microsoft Exchange : la faille CVE-2026-96940 permet de lire les boîtes aux lettres des autres utilisateurs**
-
-    ---
-
-    Consulter le bulletin officiel pour accéder aux détails techniques.
-
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/exchange-server-cve-2026-96940/)
-
--   :material-newspaper: **Windows 11 : la mise à jour KB5124010 fait planter des jeux et applications qui utilisent le Dolby Digital**
+-   :material-newspaper: **À cause d’un slip, le numéro du Premier ministre circule sur Internet**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/windows-11-kb5124010-bug-dolby-digital-ac3/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/numero-telephone-sebastien-lecornu-fuite-slip-francais/)
 
--   :material-newspaper: **BYOD, prestataires : comment faire confiance à un appareil que vous ne gérez pas ?**
+-   :material-newspaper: **Outlook va bloquer les pièces jointes MSIX et MSIXBundle à partir de novembre 2026**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/securiser-byod-sans-mdm/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/outlook-bloque-pieces-jointes-msix-msixbundle/)
+
+-   :material-newspaper: **Atlassian : une faille critique permet de lire des fichiers sur Jira, Confluence et Bitbucket**
+
+    ---
+
+    Consulter le bulletin officiel pour accéder aux détails techniques.
+
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/atlassian-cve-2026-21589-faille-critique-jira-confluence-bitbucket/)
 
 </div>
 
