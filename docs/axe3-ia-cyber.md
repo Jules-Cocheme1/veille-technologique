@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **PME, indépendants, postes partagés : Avast vise les petites structures qui veulent aller vite**
+-   :material-newspaper: **Mobilité domicile-travail : HONOR étend son écosystème avec un vélo électrique pliant à 1 499 €**
 
     ---
 
-    Avast SecureLine VPN passe à 37,60 € la première année pour 10 appareils. Une offre simple pour sécuriser plusieurs conn...
+    Après les tablettes, comme la récente HONOR Pad 20 Pro, la marque s’attaque désormais à la mobilité avec le HONOR Choice...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/publicite/pme-independants-postes-partages-avast-vise-les-petites-structures-qui-veulent-aller-vite-505107.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/mobilite-domicile-travail-honor-etend-son-ecosysteme-avec-un-velo-electrique-pliant-a-1-499-e-505310.htm#xtor=RSS-1)
 
--   :material-newspaper: **Avalez-la et elle produit de l’énergie pendant 3 jours : le MIT dévoile une batterie révolutionnaire**
-
-    ---
-
-    Des chercheurs du MIT ont mis au point une batterie ingérable conçue pour alimenter temporairement des dispositifs médic...
-
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/avalez-la-et-elle-produit-de-lenergie-pendant-3-jours-le-mit-devoile-une-batterie-en-papier-revolutionnaire-505347.htm#xtor=RSS-1)
-
--   :material-newspaper: **TikTok aurait testé sur des milliers de jeunes une fonction de sécurité factice**
+-   :material-newspaper: **Apple nous donne rendez-vous le 13 octobre : la marque pourrait présenter son premier hub domotique**
 
     ---
 
-    TikTok aurait proposé en 2023 à des milliers d’utilisateurs, dont des adolescents et des enfants, une fonction « Algo Re...
+    Apple vient d’officialiser la tenue d’un événement le 13 octobre prochain. La marque pourrait en profiter pour dévoiler ...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/tiktok-aurait-teste-sur-des-milliers-de-jeunes-une-fonction-de-securite-factice-505356.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/apple-nous-donne-rendez-vous-le-13-octobre-la-marque-pourrait-presenter-son-premier-hub-domotique-505442.htm#xtor=RSS-1)
 
--   :material-newspaper: **ZD Tech : Une bombe à retardement juridique menace les finances des opérateurs**
+-   :material-newspaper: **RGPD : la presse française réclame 1,4 milliard d'euro à Meta**
 
     ---
 
-    Depuis dix ans, les FAI omettent de garantir un débit minimal à leurs clients. Cette faille juridique, aujourd'hui ciblé...
+    Un regroupement d'acteurs de la presse française a assigné Meta en justice pour non-respect du RGPD en matière de public...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/zd-tech-une-bombe-a-retardement-juridique-menace-les-finances-des-operateurs-504836.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/rgpd-la-presse-francaise-reclame-14-milliard-deuro-a-meta-505406.htm#xtor=RSS-1)
+
+-   :material-newspaper: **Samsung réduirait ses livraisons de smartphones sur 2026**
+
+    ---
+
+    Samsung aurait abaissé son objectif de livraisons de smartphones en 2026 et réduit ses commandes de composants au quatri...
+
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/samsung-reduirait-ses-livraisons-de-smartphones-sur-2026-505447.htm#xtor=RSS-1)
 
 </div>
 
