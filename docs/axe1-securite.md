@@ -17,29 +17,29 @@
 
     [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-011/)
 
--   :material-newspaper: **Vulnérabilité dans Cisco Catalyst SD-WAN (01 octobre 2026)**
+-   :material-newspaper: **Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)**
 
     ---
 
-    Une vulnérabilité a été découverte dans Cisco Catalyst SD-WAN. Elle permet à un attaquant de provoquer un contournement ...
+    Une vulnérabilité a été découverte dans Fortinet FortiMail. Elle permet à un attaquant de provoquer une exécution de cod...
 
-    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1246/)
+    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1257/)
 
--   :material-newspaper: **Vulnérabilités de produits du secteur santé : Retour d'expérience du CERT Santé et du CERT-FR (02 octobre 2026)**
-
-    ---
-
-    Le CERT Santé et le CERT-FR assurent le traitement des vulnérabilités qui leur sont signalées par des tiers. A ce titre,...
-
-    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-007/)
-
--   :material-newspaper: **Multiples vulnérabilités dans les produits Moxa (02 octobre 2026)**
+-   :material-newspaper: **Multiples vulnérabilités dans le noyau Linux de Red Hat (02 octobre 2026)**
 
     ---
 
-    De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une...
+    De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un ...
 
-    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1250/)
+    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1254/)
+
+-   :material-newspaper: **Multiples vulnérabilités dans le noyau Linux de SUSE (02 octobre 2026)**
+
+    ---
+
+    De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un att...
+
+    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1255/)
 
 </div>
 

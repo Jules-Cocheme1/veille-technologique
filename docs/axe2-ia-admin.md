@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **Ces 16 extensions Firefox malveillantes veulent voler vos cryptos**
+-   :material-newspaper: **LiteBox 0.1 : Microsoft veut isoler les applications avec son OS-bibliothèque codé en Rust**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/extensions-firefox-malveillantes-rabby-okx-wallet/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/microsoft-litebox-library-os-rust-sandbox/)
 
--   :material-newspaper: **FakeGit est de retour : 17 610 dépôts GitHub piégés pour diffuser le malware SmartLoader**
-
-    ---
-
-    Consulter le bulletin officiel pour accéder aux détails techniques.
-
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/fakegit-depots-github-smartloader-stealc/)
-
--   :material-newspaper: **Conteneurs WSL : bien débuter avec wslc pour exécuter des conteneurs Linux sur Windows**
+-   :material-newspaper: **247 failles patchées d’un coup dans Chrome 155 : l’IA est passée par là**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/tuto-conteneurs-wsl-wslc-windows/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/google-chrome-155-247-failles-securite-corrigees/)
 
--   :material-newspaper: **PhotoCraft, FilmCraft, LightCraft : la suite Adobe réécrite en Rust par des agents Claude Opus 5.5**
+-   :material-newspaper: **Windows 11 : la fonction de recherche ne se contente plus de chercher, elle exécute des actions**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/suite-adobe-rust-claude-opus-artcraft-crafting-apps/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/windows-11-nouvelle-fonction-recherche-avec-des-actions/)
+
+-   :material-newspaper: **Forensic Windows – Partie 15 : retracer l’historique des périphériques USB**
+
+    ---
+
+    Consulter le bulletin officiel pour accéder aux détails techniques.
+
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/forensic-windows-historique-usb/)
 
 </div>
 
