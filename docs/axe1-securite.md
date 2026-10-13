@@ -17,29 +17,29 @@
 
     [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-011/)
 
--   :material-newspaper: **Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)**
+-   :material-newspaper: **Vulnérabilité dans Citrix NetScaler ADC et Gateway (05 octobre 2026)**
 
     ---
 
-    Une vulnérabilité a été découverte dans Fortinet FortiMail. Elle permet à un attaquant de provoquer une exécution de cod...
+    Une vulnérabilité a été découverte dans Citrix NetScaler ADC et Gateway. Elle permet à un attaquant de provoquer un déni...
 
-    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1257/)
+    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1263/)
 
--   :material-newspaper: **Multiples vulnérabilités dans le noyau Linux de Red Hat (02 octobre 2026)**
-
-    ---
-
-    De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un ...
-
-    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1254/)
-
--   :material-newspaper: **Multiples vulnérabilités dans le noyau Linux de SUSE (02 octobre 2026)**
+-   :material-newspaper: **Multiples vulnérabilités dans OpenOffice (05 octobre 2026)**
 
     ---
 
-    De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un att...
+    De multiples vulnérabilités ont été découvertes dans OpenOffice. Elles permettent à un attaquant de provoquer une exécut...
 
-    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1255/)
+    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1260/)
+
+-   :material-newspaper: **Multiples vulnérabilités dans Google Chrome (05 octobre 2026)**
+
+    ---
+
+    De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un prob...
+
+    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1259/)
 
 </div>
 
