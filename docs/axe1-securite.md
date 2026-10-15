@@ -25,21 +25,21 @@
 
     [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-010/)
 
--   :material-newspaper: **Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (28 septembre 2026)**
+-   :material-newspaper: **Multiples vulnérabilités dans les produits Cisco (08 octobre 2026)**
 
     ---
 
-    **[Mise à jour du 05 octobre 2026]** Le 4 octobre 2026, Citrix a publié un avis concernant une nouvelle vulnérabilité (C...
+    De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaqua...
 
-    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-011/)
+    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1282/)
 
--   :material-newspaper: **Vulnérabilité dans Citrix NetScaler ADC et Gateway (05 octobre 2026)**
+-   :material-newspaper: **Vulnérabilité dans les produits Tenable (09 octobre 2026)**
 
     ---
 
-    Une vulnérabilité a été découverte dans Citrix NetScaler ADC et Gateway. Elle permet à un attaquant de provoquer un déni...
+    Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une exécution de c...
 
-    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1263/)
+    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1284/)
 
 </div>
 
