@@ -25,21 +25,21 @@
 
     [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-010/)
 
--   :material-newspaper: **Multiples vulnérabilités dans les produits Cisco (08 octobre 2026)**
+-   :material-newspaper: **Bulletin d'actualité CERTFR-2026-ACT-043 (12 octobre 2026)**
 
     ---
 
-    De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaqua...
+    Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leu...
 
-    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1282/)
+    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-043/)
 
--   :material-newspaper: **Vulnérabilité dans les produits Tenable (09 octobre 2026)**
+-   :material-newspaper: **Multiples vulnérabilités dans GitLab (12 octobre 2026)**
 
     ---
 
-    Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une exécution de c...
+    De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoq...
 
-    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1284/)
+    [:octicons-arrow-right-24: Consulter la source (CERT-FR)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1294/)
 
 </div>
 

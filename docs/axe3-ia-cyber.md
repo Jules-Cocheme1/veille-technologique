@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **ZDNET Morning 15/10/2026 : Investissement de Nvidia en France, Cashback Bouygues Telecom, Recrutement IT : la maîtrise de la "pile IA"**
+-   :material-newspaper: **Nvidia lance Nemotron 3.5 Super VL, son modèle IA ouvert ultra-rapide**
+
+    ---
+
+    Nvidia sort le Nemotron 3.5 Super VL, un modèle IA ouvert affiché cinq fois plus rapide que ses rivaux. Conçu pour les e...
+
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/nvidia-lance-nemotron-3-5-super-vl-son-modele-ia-ouvert-ultra-rapide-505951.htm#xtor=RSS-1)
+
+-   :material-newspaper: **ZDNET Morning 16/10/2026 : Orange monétise l'accès prioritaire à sa 5G, Les 5 priorités stratégiques IA des DAF, MAI-Base-2 : le nouveau géant de Microsoft,...**
 
     ---
 
     Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, l...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/zdnet-morning-15-10-2026-investissement-de-nvidia-en-france-cashback-bouygues-telecom-recrutement-it-la-maitrise-de-la-pile-ia-505843.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/zdnet-morning-16-10-2026-orange-monetise-lacces-prioritaire-a-sa-5g-les-5-priorites-strategiques-ia-des-daf-mai-base-2-le-nouveau-geant-de-microsoft-505948.htm#xtor=RSS-1)
 
--   :material-newspaper: **Pourquoi l'avenir de Linux est prometteur – grâce à l'IA**
-
-    ---
-
-    Alors que la rapidité des progrès de l'IA repousse sans cesse les limites du développement, seules ces versions pourront...
-
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/pourquoi-lavenir-de-linux-est-prometteur-grace-a-lia-505800.htm#xtor=RSS-1)
-
--   :material-newspaper: **« ChatGPT est nuisible à la jeunesse », 8 États américains poursuivent OpenAI en justice**
+-   :material-newspaper: **Microsoft termine le pré-entraînement de MAI-Base-2, un modèle géant de 2 800 milliards de paramètres**
 
     ---
 
-    Huit États américains poursuivent OpenAI en justice, accusant ChatGPT de favoriser des comportements dangereux, de renfo...
+    Microsoft franchit une nouvelle étape dans le développement de ses propres intelligences artificielles. Son nouveau modè...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/chatgpt-est-nuisible-a-la-jeunesse-huit-etats-americains-poursuivent-openai-en-justice-505836.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/microsoft-termine-le-pre-entrainement-de-mai-base-2-un-modele-geant-de-2-800-milliards-de-parametres-505921.htm#xtor=RSS-1)
 
--   :material-newspaper: **Apple dépasse 5 000 milliards de dollars en Bourse à la clôture, une première**
+-   :material-newspaper: **MacBook Pro OLED : annonce fin octobre, sortie début novembre ?**
 
     ---
 
-    Apple est devenu la deuxième société à franchir ce seuil après Nvidia, dans un marché pourtant en repli sur la tech.
+    Apple dévoilerait ses MacBook Pro OLED à écran tactile les 27 ou 28 octobre, pour une sortie le 6 novembre. Bloomberg év...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/apple-depasse-5-000-milliards-de-dollars-en-bourse-a-la-cloture-une-premiere-505834.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/macbook-pro-oled-annonce-fin-octobre-sortie-debut-novembre-505927.htm#xtor=RSS-1)
 
 </div>
 

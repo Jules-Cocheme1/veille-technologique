@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **GhostPat : cette faille critique Docker Hub permettait d’usurper n’importe quel utilisateur**
+-   :material-newspaper: **sqlsimtools : une suite open source signée Microsoft pour tester la charge de SQL Server**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/docker-hub-faille-ghostpat-cve-2026-105445/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/sqlsimtools-microsoft-ostress-sql-server/)
 
--   :material-newspaper: **Windows Server : les mises à jour d’octobre 2026 en détail**
-
-    ---
-
-    Consulter le bulletin officiel pour accéder aux détails techniques.
-
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/mises-a-jour-octobre-2026-pour-windows-server/)
-
--   :material-newspaper: **GitLab corrige une faille critique qui permet d’exécuter du code sans authentification (CVE-2026-97229)**
+-   :material-newspaper: **Office LTSC 2021 : c’est terminé, Microsoft ne publiera plus aucun correctif de sécurité**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/gitlab-cve-2026-97229-faille-critique-regex-ci-cd/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/fin-support-office-ltsc-2021/)
 
--   :material-newspaper: **Il a pris son employeur en otage avec de simples tâches planifiées : 32 mois de prison**
+-   :material-newspaper: **OpenAI : un ingénieur arrêté pour avoir caché un enregistreur dans la salle de réunion de la direction**
 
     ---
 
     Consulter le bulletin officiel pour accéder aux détails techniques.
 
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/ingenieur-rancon-employeur-taches-planifiees-prison/)
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/openai-ingenieur-arrete-enregistreur-salle-reunion-direction/)
+
+-   :material-newspaper: **NAS Synology – Plus d’espace disque disponible, que faire ?**
+
+    ---
+
+    Consulter le bulletin officiel pour accéder aux détails techniques.
+
+    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/nas-synology-plus-espace-disque-disponible-que-faire-qdirstat/)
 
 </div>
 
