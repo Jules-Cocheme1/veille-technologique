@@ -9,37 +9,37 @@
 
 <div class="grid cards" markdown>
 
--   :material-newspaper: **Apple Watch Ultra 4 ou Garmin Fenix 9 Pro : laquelle choisir pour l’aventure ?**
+-   :material-newspaper: **Quels sont les meilleurs vidéoprojecteurs ultra courte focale pour les pros en 2026 ?**
 
     ---
 
-    Autonomie de plusieurs semaines et lampe torche d’un côté, applications tierces, santé simplifiée et IA de l’autre : not...
+    En 2026, les vidéoprojecteurs à ultra courte focale (UST - Ultra Short Throw) s'imposent comme des alternatives crédible...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/guide-achat/apple-watch-ultra-4-ou-garmin-fenix-9-pro-laquelle-choisir-pour-laventure-505930.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/selection-expert-zdnet-france/quels-sont-les-meilleurs-videoprojecteurs-ultra-courte-focale-pour-les-pros-en-2026-506066.htm#xtor=RSS-1)
 
--   :material-newspaper: **Test des Ray-Ban Meta Audio : plus légères, plus endurantes, moins « creepy »**
-
-    ---
-
-    Sans caméra, plus légères et plus endurantes : les Ray-Ban Meta Audio promettent de faire oublier le « facteur creepy » ...
-
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/guide-achat/test-des-ray-ban-meta-audio-plus-legeres-plus-endurantes-moins-creepy-505859.htm#xtor=RSS-1)
-
--   :material-newspaper: **J'ai essayé le clone gratuit de Microsoft Word,  et c'est désormais mon logiciel par défaut**
+-   :material-newspaper: **IA industrielle et datacenters : divergences stratégique entre Schneider, Siemens et ABB**
 
     ---
 
-    Quelqu'un a cloné Microsoft Word, alors j'ai voulu l'essayer sous Linux et sur Mac. C'est une alternative identique à l'...
+    Face à la demande en infrastructures pour l'intelligence artificielle, les leaders européens de l'automatisation changen...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/pratique/jai-essaye-le-clone-gratuit-de-microsoft-word-et-cest-desormais-mon-logiciel-par-defaut-506000.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/ia-industrielle-et-datacenters-divergences-strategique-entre-schneider-siemens-et-abb-506057.htm#xtor=RSS-1)
 
--   :material-newspaper: **Comment améliorer la réduction de bruit de vos écouteurs : mes 3 astuces préférées**
+-   :material-newspaper: **HBM pour Nvidia : Samsung contraint de sous-traiter la gravure à son rival TSMC**
 
     ---
 
-    La réduction de bruit est l’une des fonctions les plus importantes de vos écouteurs, mais il faut parfois procéder à que...
+    Nvidia impose désormais son architecture mémoire aux géants du secteur. Pour fournir la prochaine génération de puces HB...
 
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/pratique/comment-ameliorer-la-reduction-de-bruit-de-vos-ecouteurs-mes-3-astuces-preferees-505846.htm#xtor=RSS-1)
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/hbm-pour-nvidia-samsung-contraint-de-sous-traiter-la-gravure-a-son-rival-tsmc-506055.htm#xtor=RSS-1)
+
+-   :material-newspaper: **Cyber, IA, contrats : comment le Cigref veut protéger les DSI des grands groupes**
+
+    ---
+
+    Face à l'inflation tarifaire des géants du logiciel, les DSI réclament désormais un partage des risques financiers, sout...
+
+    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/cyber-ia-contrats-comment-le-cigref-veut-proteger-les-dsi-des-grands-groupes-505980.htm#xtor=RSS-1)
 
 </div>
 
