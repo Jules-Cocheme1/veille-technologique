@@ -14,7 +14,7 @@ dont la source est temporairement indisponible sont conservés.
 ## Lancer le site en local
 
 ```powershell
-python -m pip install -r requirements.txt
+python -m pip install -r requirements-build.txt
 python -m mkdocs serve
 ```
 
