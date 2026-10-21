@@ -1,5 +1,5 @@
 {
   "framework": null,
-  "buildCommand": "uv pip install --python \"$(command -v python)\" -r requirements-build.txt && python -m mkdocs build --strict",
+  "buildCommand": "uv venv .venv && uv pip install --python .venv/bin/python -r requirements-build.txt && .venv/bin/python -m mkdocs build --strict",
   "outputDirectory": "site"
 }
