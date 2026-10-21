@@ -6,6 +6,12 @@
   const search = document.querySelector("#veille-search");
   const resultCount = document.querySelector("#result-count");
   const status = document.querySelector("#collection-status");
+  const stats = {
+    articles: document.querySelector("#stat-articles"),
+    sources: document.querySelector("#stat-sources"),
+    axes: document.querySelector("#stat-axes"),
+    updated: document.querySelector("#stat-updated")
+  };
   const filterButtons = [...document.querySelectorAll("[data-axis]")];
   const axisNames = {
     security: "Sécurité",
@@ -14,6 +20,10 @@
   };
   const dateFormatter = new Intl.DateTimeFormat("fr-FR", {
     dateStyle: "medium"
+  });
+  const dateTimeFormatter = new Intl.DateTimeFormat("fr-FR", {
+    dateStyle: "medium",
+    timeStyle: "short"
   });
   let articles = [];
   let activeAxis = "all";
@@ -150,9 +160,19 @@
         throw new Error("Le fichier des publications ne respecte pas le format attendu.");
       }
       articles = data.articles;
-      status.textContent = data.updatedAt
-        ? `Collecte : ${formatDate(data.updatedAt)} · sources RSS`
-        : "Sources RSS · date de collecte indisponible";
+      const sources = new Set(articles.map((article) => article.source).filter(Boolean));
+      const representedAxes = new Set(articles.map((article) => article.axis).filter((axis) => axisNames[axis]));
+      const updatedAt = data.updatedAt ? new Date(data.updatedAt) : null;
+
+      stats.articles.textContent = String(articles.length);
+      stats.sources.textContent = String(sources.size);
+      stats.axes.textContent = `${representedAxes.size} / ${Object.keys(axisNames).length}`;
+      stats.updated.textContent = updatedAt && !Number.isNaN(updatedAt.getTime())
+        ? dateTimeFormatter.format(updatedAt)
+        : "Non disponible";
+      status.textContent = updatedAt && !Number.isNaN(updatedAt.getTime())
+        ? `Collecte du ${dateTimeFormatter.format(updatedAt)} · flux RSS`
+        : "Date de collecte indisponible · flux RSS";
       render();
     })
     .catch((error) => {
