@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-21T08:41:59Z",
+  "updatedAt": "2026-10-21T13:28:57Z",
   "articles": [
+    {
+      "axis": "ai-cyber",
+      "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
+      "summary": "Asymptote Labs raises $5.5M seed led by Tower Research Ventures to commercialize its Beacon AI agent runtime security platform. The post Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security appeared first on SecurityWeek .",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
+      "publishedAt": "2026-10-21T13:17:35Z"
+    },
+    {
+      "axis": "ai-cyber",
+      "title": "China Defends DeepSeek After US Ban of Its AI From Government Systems",
+      "summary": "The DHS said agencies should remove DeepSeek products as well as third-party products and services developed using DeepSeek from their IT systems. The post China Defends DeepSeek After US Ban of Its AI From Government Systems appeared first on SecurityWeek .",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/",
+      "publishedAt": "2026-10-21T10:54:49Z"
+    },
+    {
+      "axis": "ai-cyber",
+      "title": "Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor",
+      "summary": "Tasked with writing an application for a US defense contractor, the model made the code 19% more likely to be hackable. The post Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor appeared first on SecurityWeek .",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/",
+      "publishedAt": "2026-10-21T10:03:24Z"
+    },
     {
       "axis": "ai-cyber",
       "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
@@ -8,30 +32,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
       "publishedAt": "2026-10-20T15:45:00Z"
-    },
-    {
-      "axis": "ai-cyber",
-      "title": "The Key to AI Software Security Isn’t Speed, It’s Maturity",
-      "summary": "Where your developers sit on the AI adoption scale has a real impact on how you are addressing security risk. The post The Key to AI Software Security Isn’t Speed, It’s Maturity appeared first on SecurityWeek .",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/",
-      "publishedAt": "2026-10-20T13:34:23Z"
-    },
-    {
-      "axis": "ai-cyber",
-      "title": "AI Platform Cairn Abused to Hack Over 100 Organizations",
-      "summary": "At least three threat actors have been abusing Cairn for persistent access and financial theft. The post AI Platform Cairn Abused to Hack Over 100 Organizations appeared first on SecurityWeek .",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
-      "publishedAt": "2026-10-20T12:47:22Z"
-    },
-    {
-      "axis": "ai-cyber",
-      "title": "Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring",
-      "summary": "Microsoft says companies should treat AI agents as insiders, and is adding controls that grant access per task and tighten it as an agent’s risk rises. The post Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring appeared first on Security",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/",
-      "publishedAt": "2026-10-20T11:30:18Z"
     },
     {
       "axis": "systems",
@@ -67,14 +67,6 @@
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans Google Chrome (14 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1308/",
-      "publishedAt": "2026-10-14T00:00:00Z"
-    },
-    {
-      "axis": "security",
       "title": "Vulnérabilité dans Zabbix (14 octobre 2026)",
       "summary": "Une vulnérabilité a été découverte dans Zabbix. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
       "source": "CERT-FR",
@@ -95,6 +87,14 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "source": "CERT-FR",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1316/",
+      "publishedAt": "2026-10-14T00:00:00Z"
+    },
+    {
+      "axis": "security",
+      "title": "Multiples vulnérabilités dans Microsoft .Net (14 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source": "CERT-FR",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1313/",
       "publishedAt": "2026-10-14T00:00:00Z"
     },
     {
