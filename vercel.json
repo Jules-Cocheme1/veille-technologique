@@ -1,5 +1,5 @@
 {
   "framework": null,
-  "buildCommand": "python -m pip install --disable-pip-version-check -r requirements-build.txt && python -m mkdocs build --strict",
+  "buildCommand": "uv pip install --system -r requirements-build.txt && python -m mkdocs build --strict",
   "outputDirectory": "site"
 }
