@@ -1,47 +1,15 @@
-# Axe 2 : L'IA dans l'administration systèmes et réseaux
+# IA & administration des systèmes
 
-!!! info "Périmètre de veille"
-    Automatisation, scripts et gestion des infrastructures via l'IA.
+## Périmètre
 
----
+Usages de l'intelligence artificielle pour l'administration des infrastructures : **AIOps**, observabilité, automatisation, orchestration et outils d'assistance aux équipes techniques.
 
-## 📰 Dernières actualités
+La sélection des articles s'appuie sur des mots-clés liés à l'IA et aux opérations informatiques. La lecture est mensuelle.
 
-<div class="grid cards" markdown>
+## Source suivie
 
--   :material-newspaper: **AOMEI Backupper et AnyViewer : des mises à jour piégées distribuées par vagues de quelques minutes**
+- [Flux RSS d'IT-Connect](https://www.it-connect.fr/feed/)
 
-    ---
+Les publications récentes sont rassemblées sur la [page d'accueil](index.md#dernieres-publications), où elles peuvent être recherchées et filtrées.
 
-    Consulter le bulletin officiel pour accéder aux détails techniques.
-
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/aomei-backupper-anyviewer-mises-a-jour-piegees/)
-
--   :material-newspaper: **Bitwarden passe ses apps sous licence commerciale : ce qui change pour vous**
-
-    ---
-
-    Consulter le bulletin officiel pour accéder aux détails techniques.
-
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/bitwarden-applications-stores-licence-commerciale-gplv3/)
-
--   :material-newspaper: **WordPress : une version piégée de l’extension SEO Rank Math PRO a été distribuée avec un malware**
-
-    ---
-
-    Consulter le bulletin officiel pour accéder aux détails techniques.
-
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/rank-math-pro-malware-supply-chain/)
-
--   :material-newspaper: **OVHcloud : les binaires de la CLI officielle piégés sur GitHub avec un malware infostealer**
-
-    ---
-
-    Consulter le bulletin officiel pour accéder aux détails techniques.
-
-    [:octicons-arrow-right-24: Consulter la source (IT-Connect)](https://www.it-connect.fr/ovhcloud-cli-binaires-pieges-vol-secrets/)
-
-</div>
-
----
-*Page mise à jour automatiquement.*
+> Les articles sont sélectionnés automatiquement : vérifiez toujours leur pertinence et consultez leur source avant de prendre une décision technique.

@@ -1,0 +1,4 @@
+{
+  "buildCommand": "python -m pip install --disable-pip-version-check -r requirements.txt && python -m mkdocs build --strict",
+  "outputDirectory": "site"
+}

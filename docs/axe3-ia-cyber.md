@@ -1,47 +1,15 @@
-# Axe 3 : IA & Cybersécurité
+# L'IA face à la cybersécurité
 
-!!! example "Périmètre de veille"
-    Détection automatisée des menaces et sécurisation des modèles d'IA.
+## Périmètre
 
----
+Deux sujets complémentaires : l'IA au service de la détection et de la réponse aux incidents, et les risques de cybersécurité associés aux systèmes d'IA.
 
-## 📰 Dernières actualités
+Les publications sont sélectionnées à partir de flux spécialisés et de mots-clés croisés entre intelligence artificielle et cybersécurité. La lecture est trimestrielle.
 
-<div class="grid cards" markdown>
+## Sources suivies
 
--   :material-newspaper: **J'ai testé le clone gratuit d'Adobe Premiere, et DaVinci Resolve a désormais un concurrent**
+- [Flux de SecurityWeek](https://www.securityweek.com/feed/)
 
-    ---
+Les publications récentes sont rassemblées sur la [page d'accueil](index.md#dernieres-publications), où elles peuvent être recherchées et filtrées.
 
-    Si vous faites du montage vidéo et que vous adorez Adobe Premiere, mais que vous utilisez Linux comme système d'exploita...
-
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/jai-teste-le-clone-gratuit-dadobe-premiere-et-davinci-resolve-a-desormais-un-concurrent-506137.htm#xtor=RSS-1)
-
--   :material-newspaper: **Rachat de SFR : numéro, mails, prix… Ce qui va changer pour les 25 millions de clients**
-
-    ---
-
-    Calendrier du rachat, maintien du numéro de téléphone, changement d’adresse mail… L’Arcep, le gendarme des télécoms, rép...
-
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/rachat-de-sfr-numero-mails-prix-ce-qui-va-changer-pour-les-25-millions-de-clients-506129.htm#xtor=RSS-1)
-
--   :material-newspaper: **Aux Etats-Unis, une application de navigation affiche les caméras de surveillance**
-
-    ---
-
-    Face aux inquiétudes suscitées par le réseau de surveillance Flock Safety aux États-Unis, MapQuest prend une initiative ...
-
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/aux-etats-unis-une-application-de-navigation-affiche-les-cameras-de-surveillance-506124.htm#xtor=RSS-1)
-
--   :material-newspaper: **J'ai testé ce clone gratuit de PowerPoint, et il surpasse LibreOffice et Google Slides**
-
-    ---
-
-    Si vous réalisez des présentations et avez besoin de MS PowerPoint, mais que vous utilisez Linux comme système d'exploit...
-
-    [:octicons-arrow-right-24: Consulter la source (ZDNet)](https://www.zdnet.fr/actualites/jai-teste-ce-clone-gratuit-de-powerpoint-et-il-surpasse-libreoffice-et-google-slides-506121.htm#xtor=RSS-1)
-
-</div>
-
----
-*Page mise à jour automatiquement.*
+> Les articles couvrent des actualités et des analyses générales ; ils ne constituent ni une recommandation de déploiement ni un audit de sécurité.
