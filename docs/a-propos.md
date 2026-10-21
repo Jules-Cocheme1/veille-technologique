@@ -2,9 +2,9 @@
 
 ## Collecte et publication
 
-Les flux RSS sont interrogés chaque jour par un workflow GitHub Actions. Les articles sont normalisés puis regroupés par axe dans le tableau de bord. Si un flux est momentanément inaccessible, les publications déjà collectées pour cet axe sont conservées et l'échec apparaît dans les journaux du workflow.
+Les flux RSS sont interrogés chaque jour par un workflow GitHub Actions. Les articles sont normalisés, filtrés par mots-clés, puis regroupés par axe dans le tableau de bord. La page affiche l'heure de collecte, le nombre de publications disponibles et les sources représentées.
 
-La fréquence indiquée sur chaque axe est la fréquence de lecture et d'analyse recommandée, pas la fréquence de collecte.
+Si un flux est momentanément inaccessible, les publications déjà collectées pour cet axe sont conservées et l'échec apparaît dans les journaux du workflow. La fréquence indiquée sur chaque axe est la fréquence de lecture et d'analyse recommandée, pas la fréquence de collecte.
 
 ## Sources et critères de sélection
 
@@ -15,6 +15,10 @@ La fréquence indiquée sur chaque axe est la fréquence de lecture et d'analyse
 | IA & cybersécurité | [SecurityWeek](https://www.securityweek.com/) | Présence conjointe de termes liés à l'IA et à la cybersécurité |
 
 Les filtres automatisés ne comprennent pas toujours le contexte. Une publication manquante ou mal classée est possible ; consultez la source d'origine pour confirmer les informations.
+
+## Interprétation et priorisation
+
+Les publications sont présentées par date, sans classement automatique de gravité, de crédibilité ou d'impact. Les mots-clés servent au repérage, pas à la qualification d'un risque. Avant toute décision, vérifiez le contenu complet, la date, la source et l'applicabilité à votre environnement. Les repères propres à chaque axe facilitent cette analyse sans se substituer à une expertise ni à une évaluation locale.
 
 ## Limites
 

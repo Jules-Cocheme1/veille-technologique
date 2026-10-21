@@ -48,6 +48,29 @@
   </div>
 </section>
 
+<section class="overview-grid" aria-label="Indicateurs de la veille" aria-live="polite">
+  <div class="overview-card">
+    <span class="overview-card__label">Publications recensées</span>
+    <strong class="overview-card__value" id="stat-articles">—</strong>
+    <span class="overview-card__detail">dans le tableau de bord</span>
+  </div>
+  <div class="overview-card">
+    <span class="overview-card__label">Sources représentées</span>
+    <strong class="overview-card__value" id="stat-sources">—</strong>
+    <span class="overview-card__detail">dans les publications affichées</span>
+  </div>
+  <div class="overview-card">
+    <span class="overview-card__label">Axes représentés</span>
+    <strong class="overview-card__value" id="stat-axes">—</strong>
+    <span class="overview-card__detail">sécurité, systèmes et IA</span>
+  </div>
+  <div class="overview-card overview-card--updated">
+    <span class="overview-card__label">Dernière collecte</span>
+    <strong class="overview-card__value overview-card__value--date" id="stat-updated">—</strong>
+    <span class="overview-card__detail">horodatage du flux RSS</span>
+  </div>
+</section>
+
 <section class="section-block publications" id="dernieres-publications" aria-labelledby="publications-title" data-veille>
   <div class="section-heading">
     <div>
@@ -56,6 +79,7 @@
     </div>
     <p id="collection-status" class="collection-status" role="status">Chargement des publications…</p>
   </div>
+  <p class="editorial-note">Les publications sont classées par date, sans score de gravité automatique. Vérifiez la publication d'origine et son applicabilité à votre contexte.</p>
   <div class="publication-tools">
     <label class="search-field">
       <span class="search-icon" aria-hidden="true">⌕</span>
@@ -77,7 +101,7 @@
   <span class="method-strip__icon" aria-hidden="true">↗</span>
   <div>
     <p class="eyebrow">Méthode & transparence</p>
-    <p>Chaque publication renvoie à sa source. La collecte est automatisée ; la sélection et la mise en perspective restent perfectibles.</p>
+    <p>Chaque publication renvoie à sa source. La collecte et le classement par axe sont automatisés ; ils ne constituent ni une analyse de risque ni une recommandation de déploiement.</p>
   </div>
   <a href="a-propos/">Découvrir la méthode <span aria-hidden="true">→</span></a>
 </section>
