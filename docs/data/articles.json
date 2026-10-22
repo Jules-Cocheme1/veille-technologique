@@ -1,29 +1,13 @@
 {
-  "updatedAt": "2026-10-22T06:51:41Z",
+  "updatedAt": "2026-10-22T13:30:12Z",
   "articles": [
     {
-      "axis": "ai-cyber",
-      "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
-      "summary": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
-      "publishedAt": "2026-10-21T14:45:00Z"
-    },
-    {
-      "axis": "ai-cyber",
-      "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
-      "summary": "Asymptote Labs raises $5.5M seed led by Tower Research Ventures to commercialize its Beacon AI agent runtime security platform.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
-      "publishedAt": "2026-10-21T13:17:35Z"
-    },
-    {
-      "axis": "ai-cyber",
-      "title": "Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor",
-      "summary": "Tasked with writing an application for a US defense contractor, the model made the code 19% more likely to be hackable.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/",
-      "publishedAt": "2026-10-21T10:03:24Z"
+      "axis": "systems",
+      "title": "FortiGate, FortiManager : Fortinet vous demande de patcher tout de suite, mais sans dire ce qu’il corrige",
+      "summary": "Fortinet a publié le 22 octobre des correctifs urgents pour FortiOS, FortiManager et FortiAnalyzer, contre des failles critiques détectées grâce à l'IA.",
+      "source": "IT-Connect",
+      "url": "https://www.it-connect.fr/fortinet-correctifs-urgence-failles-ia-fortios-fortimanager-octobre-2026/",
+      "publishedAt": "2026-10-22T10:56:58Z"
     },
     {
       "axis": "systems",
