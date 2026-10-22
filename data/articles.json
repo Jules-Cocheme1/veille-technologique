@@ -1,101 +1,93 @@
 {
-  "updatedAt": "2026-10-21T13:28:57Z",
+  "updatedAt": "2026-10-22T06:51:41Z",
   "articles": [
     {
       "axis": "ai-cyber",
+      "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
+      "summary": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
+      "publishedAt": "2026-10-21T14:45:00Z"
+    },
+    {
+      "axis": "ai-cyber",
       "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
-      "summary": "Asymptote Labs raises $5.5M seed led by Tower Research Ventures to commercialize its Beacon AI agent runtime security platform. The post Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security appeared first on SecurityWeek .",
+      "summary": "Asymptote Labs raises $5.5M seed led by Tower Research Ventures to commercialize its Beacon AI agent runtime security platform.",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
       "publishedAt": "2026-10-21T13:17:35Z"
     },
     {
       "axis": "ai-cyber",
-      "title": "China Defends DeepSeek After US Ban of Its AI From Government Systems",
-      "summary": "The DHS said agencies should remove DeepSeek products as well as third-party products and services developed using DeepSeek from their IT systems. The post China Defends DeepSeek After US Ban of Its AI From Government Systems appeared first on SecurityWeek .",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/",
-      "publishedAt": "2026-10-21T10:54:49Z"
-    },
-    {
-      "axis": "ai-cyber",
       "title": "Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor",
-      "summary": "Tasked with writing an application for a US defense contractor, the model made the code 19% more likely to be hackable. The post Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor appeared first on SecurityWeek .",
+      "summary": "Tasked with writing an application for a US defense contractor, the model made the code 19% more likely to be hackable.",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/",
       "publishedAt": "2026-10-21T10:03:24Z"
     },
     {
-      "axis": "ai-cyber",
-      "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
-      "summary": "NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents. The post US Agencies Detail Incident Response Practices for Rogue AI Agents appeared first on SecurityWeek .",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
-      "publishedAt": "2026-10-20T15:45:00Z"
-    },
-    {
       "axis": "systems",
       "title": "Deepfake, clonage vocal et vishing : comment être sûr de l’identité d’un utilisateur ?",
-      "summary": "Deepfake en entretien, voix clonée et faux service informatique : comment vérifier l'identité d'un utilisateur à l'ère de l'IA et sécuriser les accès. Le post Deepfake, clonage vocal et vishing : comment être sûr de l’identité d’un utilisateur ? a été publié s",
+      "summary": "Deepfake en entretien, voix clonée et faux service informatique : comment vérifier l'identité d'un utilisateur à l'ère de l'IA et sécuriser les accès.",
       "source": "IT-Connect",
       "url": "https://www.it-connect.fr/deepfake-clonage-vocal-vishing-identite/",
       "publishedAt": "2026-10-19T16:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans les produits Ivanti (14 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. ",
+      "title": "Multiples vulnérabilités dans les produits Symfony (15 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Symfony. Elles permettent à un attaquant de provoquer un déni de service à distance.",
       "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1311/",
-      "publishedAt": "2026-10-14T00:00:00Z"
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1324/",
+      "publishedAt": "2026-10-15T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans Microsoft Office (14 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Mic",
+      "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (15 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Palo",
       "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1312/",
-      "publishedAt": "2026-10-14T00:00:00Z"
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1326/",
+      "publishedAt": "2026-10-15T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans Microsoft Azure (14 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "title": "Multiples vulnérabilités dans Moodle (15 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
       "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1315/",
-      "publishedAt": "2026-10-14T00:00:00Z"
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1318/",
+      "publishedAt": "2026-10-15T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Vulnérabilité dans Zabbix (14 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Zabbix. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "title": "Vulnérabilité dans les produits Microsoft (15 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges.",
       "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1309/",
-      "publishedAt": "2026-10-14T00:00:00Z"
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1323/",
+      "publishedAt": "2026-10-15T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans Microsoft Windows (14 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique ",
+      "title": "Multiples vulnérabilités dans Drupal (15 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Drupal. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une injection de code indirecte à distance (XSS).",
       "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1314/",
-      "publishedAt": "2026-10-14T00:00:00Z"
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1321/",
+      "publishedAt": "2026-10-15T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans les produits Microsoft (14 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "title": "Multiples vulnérabilités dans les produits Juniper Networks (15 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1316/",
-      "publishedAt": "2026-10-14T00:00:00Z"
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1322/",
+      "publishedAt": "2026-10-15T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans Microsoft .Net (14 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "title": "Multiples vulnérabilités dans Sonicwall Network Security Manager (15 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Sonicwall Network Security Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
       "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1313/",
-      "publishedAt": "2026-10-14T00:00:00Z"
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1320/",
+      "publishedAt": "2026-10-15T00:00:00Z"
     },
     {
       "axis": "security",
