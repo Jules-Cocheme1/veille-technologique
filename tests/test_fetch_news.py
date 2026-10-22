@@ -24,6 +24,14 @@ class FakeResponse:
 
 
 class FetchNewsTests(unittest.TestCase):
+    def test_clean_summary_removes_publisher_footer(self):
+        self.assertEqual(
+            fetch_news.clean_summary(
+                "Les équipes détaillent les risques. The post Example story appeared first on SecurityWeek."
+            ),
+            "Les équipes détaillent les risques.",
+        )
+
     def test_systems_feed_filters_irrelevant_articles_and_cleans_summary(self):
         rss = """<?xml version="1.0"?>
         <rss><channel>

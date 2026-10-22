@@ -85,6 +85,11 @@ def clean_text(value):
     return " ".join(" ".join(extractor.parts).split())
 
 
+def clean_summary(value):
+    summary = clean_text(value)
+    return re.sub(r"\s*(?:the post|le post)\b.*$", "", summary, flags=re.IGNORECASE).strip()
+
+
 def normalize(value):
     decomposed = unicodedata.normalize("NFKD", value.casefold())
     return "".join(char for char in decomposed if not unicodedata.combining(char))
@@ -159,7 +164,7 @@ def fetch_articles(feed):
     for entry in entries:
         title = clean_text(direct_child_text(entry, {"title"}))
         url = entry_link(entry)
-        summary = clean_text(
+        summary = clean_summary(
             direct_child_text(entry, {"description", "summary", "content", "encoded"})
         )
         if not title or not url or url in seen_urls or not url.startswith(("https://", "http://")):

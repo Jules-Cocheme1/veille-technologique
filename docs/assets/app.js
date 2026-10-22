@@ -2,17 +2,12 @@
   const root = document.querySelector("[data-veille]");
   if (!root) return;
 
-  const grid = document.querySelector("#article-grid");
-  const search = document.querySelector("#veille-search");
-  const resultCount = document.querySelector("#result-count");
-  const status = document.querySelector("#collection-status");
-  const stats = {
-    articles: document.querySelector("#stat-articles"),
-    sources: document.querySelector("#stat-sources"),
-    axes: document.querySelector("#stat-axes"),
-    updated: document.querySelector("#stat-updated")
-  };
-  const filterButtons = [...document.querySelectorAll("[data-axis]")];
+  const grid = root.querySelector("#article-grid");
+  const search = root.querySelector("#veille-search");
+  const resultCount = root.querySelector("#result-count");
+  const status = root.querySelector("#collection-status");
+  const liveBadge = document.querySelector(".dashboard-live");
+  const filterButtons = [...root.querySelectorAll("[data-axis]")];
   const axisNames = {
     security: "Sécurité",
     systems: "IA & systèmes",
@@ -21,7 +16,10 @@
   const dateFormatter = new Intl.DateTimeFormat("fr-FR", {
     dateStyle: "medium"
   });
-  const dateTimeFormatter = new Intl.DateTimeFormat("fr-FR", {
+  const timeFormatter = new Intl.DateTimeFormat("fr-FR", {
+    timeStyle: "short"
+  });
+  const timestampFormatter = new Intl.DateTimeFormat("fr-FR", {
     dateStyle: "medium",
     timeStyle: "short"
   });
@@ -37,10 +35,41 @@
     }
   }
 
-  function formatDate(value) {
+  function formatDate(value, formatter = dateFormatter) {
     if (!value) return "Date non précisée";
     const date = new Date(value);
-    return Number.isNaN(date.getTime()) ? "Date non précisée" : dateFormatter.format(date);
+    return Number.isNaN(date.getTime()) ? "Date non précisée" : formatter.format(date);
+  }
+
+  function cleanSummary(value) {
+    return (value || "")
+      .replace(/\s*(?:the post|le post)\s+.+$/i, "")
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+
+  function updateStats(data) {
+    const sources = new Set(articles.map((article) => article.source).filter(Boolean));
+    const axes = new Set(articles.map((article) => article.axis).filter((axis) => axisNames[axis]));
+    const lastUpdated = document.querySelector("#stat-updated");
+    document.querySelector("#stat-publications").textContent = String(articles.length).padStart(2, "0");
+    document.querySelector("#stat-sources").textContent = String(sources.size).padStart(2, "0");
+    document.querySelector("#stat-axes").textContent = String(axes.size).padStart(2, "0");
+    lastUpdated.textContent = formatDate(data.updatedAt);
+
+    const timestamp = new Date(data.updatedAt);
+    document.querySelector(".stat-card--updated .stat-note").textContent =
+      Number.isNaN(timestamp.getTime())
+        ? "date de collecte indisponible"
+        : `Sources RSS · ${timeFormatter.format(timestamp)}`;
+  }
+
+  function setLiveStatus(message, isError = false) {
+    const dot = document.createElement("span");
+    dot.className = `status-dot${isError ? " status-dot--error" : ""}`;
+    dot.setAttribute("aria-hidden", "true");
+    liveBadge.replaceChildren(dot, document.createTextNode(` ${message}`));
+    liveBadge.setAttribute("aria-label", message);
   }
 
   function createArticleCard(article) {
@@ -69,7 +98,7 @@
     title.textContent = article.title || "Publication sans titre";
 
     const summary = document.createElement("p");
-    summary.textContent = article.summary || "Ouvrir la source pour consulter la publication.";
+    summary.textContent = cleanSummary(article.summary) || "Ouvrir la source pour consulter la publication.";
 
     const footer = document.createElement("div");
     footer.className = "article-card__footer";
@@ -101,7 +130,7 @@
       .filter((article) => {
         const searchableText = [
           article.title,
-          article.summary,
+          cleanSummary(article.summary),
           article.source,
           axisNames[article.axis]
         ].join(" ").toLocaleLowerCase("fr");
@@ -150,6 +179,16 @@
 
   search.addEventListener("input", render);
 
+  document.addEventListener("keydown", (event) => {
+    const isTyping = event.target instanceof HTMLElement &&
+      (event.target.isContentEditable || ["INPUT", "TEXTAREA", "SELECT"].includes(event.target.tagName));
+    if ((event.key === "/" && !isTyping && !event.metaKey && !event.ctrlKey && !event.altKey) ||
+        ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === "k")) {
+      event.preventDefault();
+      search.focus();
+    }
+  });
+
   fetch(new URL("data/articles.json", document.baseURI), { cache: "no-cache" })
     .then((response) => {
       if (!response.ok) throw new Error(`Chargement des publications impossible (${response.status}).`);
@@ -160,23 +199,16 @@
         throw new Error("Le fichier des publications ne respecte pas le format attendu.");
       }
       articles = data.articles;
-      const sources = new Set(articles.map((article) => article.source).filter(Boolean));
-      const representedAxes = new Set(articles.map((article) => article.axis).filter((axis) => axisNames[axis]));
-      const updatedAt = data.updatedAt ? new Date(data.updatedAt) : null;
-
-      stats.articles.textContent = String(articles.length);
-      stats.sources.textContent = String(sources.size);
-      stats.axes.textContent = `${representedAxes.size} / ${Object.keys(axisNames).length}`;
-      stats.updated.textContent = updatedAt && !Number.isNaN(updatedAt.getTime())
-        ? dateTimeFormatter.format(updatedAt)
-        : "Non disponible";
-      status.textContent = updatedAt && !Number.isNaN(updatedAt.getTime())
-        ? `Collecte du ${dateTimeFormatter.format(updatedAt)} · flux RSS`
-        : "Date de collecte indisponible · flux RSS";
+      updateStats(data);
+      status.textContent = data.updatedAt
+        ? `Collecte : ${formatDate(data.updatedAt, timestampFormatter)} · sources RSS`
+        : "Sources RSS · date de collecte indisponible";
+      setLiveStatus("Flux RSS actif");
       render();
     })
     .catch((error) => {
       status.textContent = "Les publications n'ont pas pu être chargées.";
+      setLiveStatus("Flux RSS indisponible", true);
       const message = document.createElement("p");
       message.className = "empty-state empty-state--error";
       message.setAttribute("role", "alert");

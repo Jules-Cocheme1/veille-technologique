@@ -1,6 +1,6 @@
-# Centre de veille technologique
+# VTEN CONTINU
 
-Portail de veille en français consacré à trois thèmes :
+Tableau de bord de veille en français consacré à trois thèmes :
 
 - **Sécurité** — alertes et vulnérabilités publiées par le CERT-FR.
 - **IA & systèmes** — automatisation, administration et AIOps.
