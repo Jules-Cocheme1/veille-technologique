@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-22T13:30:12Z",
+  "updatedAt": "2026-10-23T13:06:19Z",
   "articles": [
+    {
+      "axis": "ai-cyber",
+      "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
+      "summary": "The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
+      "publishedAt": "2026-10-23T10:31:16Z"
+    },
+    {
+      "axis": "ai-cyber",
+      "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
+      "summary": "Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
+      "publishedAt": "2026-10-23T08:10:46Z"
+    },
     {
       "axis": "systems",
       "title": "FortiGate, FortiManager : Fortinet vous demande de patcher tout de suite, mais sans dire ce qu’il corrige",
@@ -10,76 +26,68 @@
       "publishedAt": "2026-10-22T10:56:58Z"
     },
     {
-      "axis": "systems",
-      "title": "Deepfake, clonage vocal et vishing : comment être sûr de l’identité d’un utilisateur ?",
-      "summary": "Deepfake en entretien, voix clonée et faux service informatique : comment vérifier l'identité d'un utilisateur à l'ère de l'IA et sécuriser les accès.",
-      "source": "IT-Connect",
-      "url": "https://www.it-connect.fr/deepfake-clonage-vocal-vishing-identite/",
-      "publishedAt": "2026-10-19T16:00:00Z"
+      "axis": "security",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-044 (19 octobre 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques ",
+      "source": "CERT-FR",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-044/",
+      "publishedAt": "2026-10-19T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans les produits Symfony (15 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Symfony. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (16 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1324/",
-      "publishedAt": "2026-10-15T00:00:00Z"
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1334/",
+      "publishedAt": "2026-10-16T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (15 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Palo",
+      "title": "Multiples vulnérabilités dans les produits Microsoft (16 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1326/",
-      "publishedAt": "2026-10-15T00:00:00Z"
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1332/",
+      "publishedAt": "2026-10-16T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans Moodle (15 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (16 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
       "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1318/",
-      "publishedAt": "2026-10-15T00:00:00Z"
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1335/",
+      "publishedAt": "2026-10-16T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Vulnérabilité dans les produits Microsoft (15 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+      "title": "Multiples vulnérabilités dans les produits IBM (16 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1323/",
-      "publishedAt": "2026-10-15T00:00:00Z"
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1336/",
+      "publishedAt": "2026-10-16T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans Drupal (15 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Drupal. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une injection de code indirecte à distance (XSS).",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (16 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des donné",
       "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1321/",
-      "publishedAt": "2026-10-15T00:00:00Z"
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1333/",
+      "publishedAt": "2026-10-16T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans les produits Juniper Networks (15 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "title": "Multiples vulnérabilités dans Microsoft Office (16 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
       "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1322/",
-      "publishedAt": "2026-10-15T00:00:00Z"
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1331/",
+      "publishedAt": "2026-10-16T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans Sonicwall Network Security Manager (15 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Sonicwall Network Security Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+      "title": "Recommandations à destination des acteurs du secteur de l’énergie et de l’eau (22 janvier 2026)",
+      "summary": "**Objet** : Recommandations de sécurisation des systèmes d’information à destination des producteurs, des intégrateurs et des installateurs des systèmes de production industriels du secteur de l’énergie et de l’eau en France. **Annexe** : Liens et références D",
       "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1320/",
-      "publishedAt": "2026-10-15T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Incident de sécurité ciblant les contrôleurs à distance des installations de réfrigération (12 octobre 2026)",
-      "summary": "Le CERT-FR a connaissance de nombreuses compromissions des controleurs à distance d'installation de réfrigération Danfoss série AK-SM, AK-SC ainsi que Copeland xweb et Dixell xweb. De manière générale l'exposition d'une interface de gestion sur Internet est co",
-      "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-012/",
-      "publishedAt": "2026-10-12T00:00:00Z"
+      "url": "https://www.cert.ssi.gouv.fr/dur/CERTFR-2025-DUR-003/",
+      "publishedAt": "2026-01-22T00:00:00Z"
     }
   ]
 }
