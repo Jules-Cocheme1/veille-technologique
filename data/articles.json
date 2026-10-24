@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-23T13:06:19Z",
+  "updatedAt": "2026-10-24T12:28:02Z",
   "articles": [
+    {
+      "axis": "systems",
+      "title": "Pulse : les journaux d’événements de Windows facilement lisibles, avec de l’IA locale",
+      "summary": "Pulse est un outil gratuit et open source qui traduit les journaux d'événements de Windows 10 et 11 en langage clair, avec une IA locale (Ollama, LM Studio).",
+      "source": "IT-Connect",
+      "url": "https://www.it-connect.fr/pulse-journaux-evenements-de-windows-facilement-lisibles-avec-ia-locale/",
+      "publishedAt": "2026-10-24T05:00:00Z"
+    },
+    {
+      "axis": "ai-cyber",
+      "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
+      "summary": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
+      "publishedAt": "2026-10-23T14:23:37Z"
+    },
+    {
+      "axis": "systems",
+      "title": "Windows 11 : avec Project Pantheon, Microsoft teste une mémoire IA qui ne retient que ce que vous choisissez",
+      "summary": "Microsoft teste Project Pantheon, une mémoire IA pour Windows 11 qui ne retient que ce que vous sauvegardez, avec un serveur MCP ouvert à Claude et Cursor.",
+      "source": "IT-Connect",
+      "url": "https://www.it-connect.fr/windows-11-project-pantheon-context-vault-memoire-ia/",
+      "publishedAt": "2026-10-23T13:40:12Z"
+    },
     {
       "axis": "ai-cyber",
       "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
@@ -27,59 +51,59 @@
     },
     {
       "axis": "security",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-044 (19 octobre 2026)",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques ",
+      "title": "Multiples vulnérabilités dans Oracle Virtualization (21 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des donné",
       "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-044/",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1354/",
+      "publishedAt": "2026-10-21T00:00:00Z"
+    },
+    {
+      "axis": "security",
+      "title": "Multiples vulnérabilités dans les produits Mozilla (21 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service.",
+      "source": "CERT-FR",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1346/",
+      "publishedAt": "2026-10-21T00:00:00Z"
+    },
+    {
+      "axis": "security",
+      "title": "Violations de données applicatives - Retour d’expérience du CERT-FR (20 octobre 2026)",
+      "summary": "En 2025, le CERT-FR a suivi près de 200 violations de données issues d’applications web. Dans de nombreux cas, ces exfiltrations ont été permises par des actions attaquantes d’un faible niveau de complexité, sans exploitation de vulnérabilité technique. Les di",
+      "source": "CERT-FR",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-008/",
+      "publishedAt": "2026-10-20T00:00:00Z"
+    },
+    {
+      "axis": "security",
+      "title": "Multiples vulnérabilités dans Mattermost Server (20 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source": "CERT-FR",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1344/",
+      "publishedAt": "2026-10-20T00:00:00Z"
+    },
+    {
+      "axis": "security",
+      "title": "Multiples vulnérabilités dans Laravel (20 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Laravel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "source": "CERT-FR",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1343/",
+      "publishedAt": "2026-10-20T00:00:00Z"
+    },
+    {
+      "axis": "security",
+      "title": "Multiples vulnérabilités dans les produits F5 (19 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source": "CERT-FR",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1341/",
       "publishedAt": "2026-10-19T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (16 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
       "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1334/",
-      "publishedAt": "2026-10-16T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Multiples vulnérabilités dans les produits Microsoft (16 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1332/",
-      "publishedAt": "2026-10-16T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (16 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1335/",
-      "publishedAt": "2026-10-16T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Multiples vulnérabilités dans les produits IBM (16 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1336/",
-      "publishedAt": "2026-10-16T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (16 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des donné",
-      "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1333/",
-      "publishedAt": "2026-10-16T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Multiples vulnérabilités dans Microsoft Office (16 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "source": "CERT-FR",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1331/",
-      "publishedAt": "2026-10-16T00:00:00Z"
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/",
+      "publishedAt": "2026-10-19T00:00:00Z"
     },
     {
       "axis": "security",
