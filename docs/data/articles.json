@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-24T12:28:02Z",
+  "updatedAt": "2026-10-25T12:58:45Z",
   "articles": [
+    {
+      "axis": "ai-cyber",
+      "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
+      "summary": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+      "publishedAt": "2026-10-25T11:00:00Z"
+    },
     {
       "axis": "systems",
       "title": "Pulse : les journaux d’événements de Windows facilement lisibles, avec de l’IA locale",
