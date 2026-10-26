@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-25T12:58:45Z",
+  "updatedAt": "2026-10-26T14:53:04Z",
   "articles": [
+    {
+      "axis": "systems",
+      "title": "WordCraft, GridCraft, DeckCraft : après Adobe, Word, Excel et PowerPoint réécrits en Rust avec l’IA",
+      "summary": "WordCraft, GridCraft et DeckCraft : trois clones open source de Word, Excel et PowerPoint écrits en Rust avec Claude Opus 5.5. Sont-ils opérationnels ?",
+      "source": "IT-Connect",
+      "url": "https://www.it-connect.fr/wordcraft-gridcraft-deckcraft-suite-office-rust-claude/",
+      "publishedAt": "2026-10-26T12:04:51Z"
+    },
     {
       "axis": "ai-cyber",
       "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
@@ -32,30 +40,6 @@
       "source": "IT-Connect",
       "url": "https://www.it-connect.fr/windows-11-project-pantheon-context-vault-memoire-ia/",
       "publishedAt": "2026-10-23T13:40:12Z"
-    },
-    {
-      "axis": "ai-cyber",
-      "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
-      "summary": "The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
-      "publishedAt": "2026-10-23T10:31:16Z"
-    },
-    {
-      "axis": "ai-cyber",
-      "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
-      "summary": "Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
-      "publishedAt": "2026-10-23T08:10:46Z"
-    },
-    {
-      "axis": "systems",
-      "title": "FortiGate, FortiManager : Fortinet vous demande de patcher tout de suite, mais sans dire ce qu’il corrige",
-      "summary": "Fortinet a publié le 22 octobre des correctifs urgents pour FortiOS, FortiManager et FortiAnalyzer, contre des failles critiques détectées grâce à l'IA.",
-      "source": "IT-Connect",
-      "url": "https://www.it-connect.fr/fortinet-correctifs-urgence-failles-ia-fortios-fortimanager-octobre-2026/",
-      "publishedAt": "2026-10-22T10:56:58Z"
     },
     {
       "axis": "security",
