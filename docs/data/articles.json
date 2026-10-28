@@ -1,14 +1,6 @@
 {
-  "updatedAt": "2026-10-27T14:00:43Z",
+  "updatedAt": "2026-10-28T14:53:12Z",
   "articles": [
-    {
-      "axis": "ai-cyber",
-      "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
-      "summary": "A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmful, life-threatening tasks.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
-      "publishedAt": "2026-10-26T20:20:56Z"
-    },
     {
       "axis": "systems",
       "title": "WordCraft, GridCraft, DeckCraft : après Adobe, Word, Excel et PowerPoint réécrits en Rust avec l’IA",
@@ -26,28 +18,44 @@
       "publishedAt": "2026-10-24T05:00:00Z"
     },
     {
-      "axis": "systems",
-      "title": "Windows 11 : avec Project Pantheon, Microsoft teste une mémoire IA qui ne retient que ce que vous choisissez",
-      "summary": "Microsoft teste Project Pantheon, une mémoire IA pour Windows 11 qui ne retient que ce que vous sauvegardez, avec un serveur MCP ouvert à Claude et Cursor.",
-      "source": "IT-Connect",
-      "url": "https://www.it-connect.fr/windows-11-project-pantheon-context-vault-memoire-ia/",
-      "publishedAt": "2026-10-23T13:40:12Z"
+      "axis": "security",
+      "title": "Multiples vulnérabilités dans ISC BIND (22 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+      "source": "CERT-FR",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1365/",
+      "publishedAt": "2026-10-22T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans Oracle Virtualization (21 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des donné",
+      "title": "Multiples vulnérabilités dans Node (22 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Node.js. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1354/",
-      "publishedAt": "2026-10-21T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1367/",
+      "publishedAt": "2026-10-22T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans Oracle Database Server (21 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des donn",
+      "title": "Multiples vulnérabilités dans GitLab (22 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécuri",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1349/",
-      "publishedAt": "2026-10-21T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1363/",
+      "publishedAt": "2026-10-22T00:00:00Z"
+    },
+    {
+      "axis": "security",
+      "title": "Multiples vulnérabilités dans les produits Splunk (22 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une injection de code indirecte à distan",
+      "source": "CERT-FR",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1366/",
+      "publishedAt": "2026-10-22T00:00:00Z"
+    },
+    {
+      "axis": "security",
+      "title": "Multiples vulnérabilités dans les produits Cisco (22 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "source": "CERT-FR",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1360/",
+      "publishedAt": "2026-10-22T00:00:00Z"
     },
     {
       "axis": "security",
@@ -59,34 +67,10 @@
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans Oracle MySQL (21 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "title": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
+      "summary": "**[Mise à jour du 26 octobre 2026]** Le 23 octobre 2026, PHP a publié un avis de sécurité concernant la vulnérabilité CVE-2026-115560. Celle-ci permet une exécution de code arbitraire à distance. L'éditeur estime que les conditions d'exploitation exigent une c",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1351/",
-      "publishedAt": "2026-10-21T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Multiples vulnérabilités dans Google Chrome (21 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1357/",
-      "publishedAt": "2026-10-21T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Multiples vulnérabilités dans Oracle PeopleSoft (21 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1352/",
-      "publishedAt": "2026-10-21T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Multiples vulnérabilités dans Oracle Java SE (21 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1350/",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-014/",
       "publishedAt": "2026-10-21T00:00:00Z"
     },
     {
