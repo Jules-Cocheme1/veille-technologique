@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-29T14:58:12Z",
+  "updatedAt": "2026-10-30T14:51:37Z",
   "articles": [
+    {
+      "axis": "ai-cyber",
+      "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
+      "summary": "Noteworthy stories that might have slipped under the radar: Iran eyed in military freezer hacks, Copenhagen University breach, AI-powered malware.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
+      "publishedAt": "2026-10-30T14:41:35Z"
+    },
+    {
+      "axis": "ai-cyber",
+      "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
+      "summary": "Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
+      "publishedAt": "2026-10-30T08:16:26Z"
+    },
+    {
+      "axis": "systems",
+      "title": "Proton : 90 % du code écrit par l’IA, et pour le CEO, vouloir tester la sécurité est une mentalité de losers",
+      "summary": "90 % du code de Proton serait écrit par l’IA, et son CEO, Andy Yen, balaie une demande de tests de sécurité en parlant d'une mentalité de losers.",
+      "source": "IT-Connect",
+      "url": "https://www.it-connect.fr/proton-andy-yen-ia-code/",
+      "publishedAt": "2026-10-30T06:47:34Z"
+    },
+    {
+      "axis": "systems",
+      "title": "REA : j’ai testé la rétro-ingénierie pilotée par l’IA avec Claude Code",
+      "summary": "Découvrez REA, le serveur MCP qui permet à Claude Code ou Codex de piloter Ghidra et d'autres outils : installation, cadre légal et démo de rétro-ingénierie.",
+      "source": "IT-Connect",
+      "url": "https://www.it-connect.fr/rea-retro-ingenierie-ia-ghidra/",
+      "publishedAt": "2026-10-29T17:00:00Z"
+    },
     {
       "axis": "systems",
       "title": "Ginux : avec l’IA, le fondateur de CentOS crée en 11 jours un noyau Rust compatible Linux",
@@ -11,59 +43,59 @@
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans les produits Red Hat (23 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, un déni de service et un problème de sécurité non spécifié par l'éditeur.",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (27 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1373/",
-      "publishedAt": "2026-10-23T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1395/",
+      "publishedAt": "2026-10-27T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (23 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "title": "Multiples vulnérabilités dans GLPI (27 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GLPI. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection SQL (SQLi) et une injection de code indirecte à distance (XSS).",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1371/",
-      "publishedAt": "2026-10-23T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1389/",
+      "publishedAt": "2026-10-27T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (23 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-045 (26 octobre 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques ",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1375/",
-      "publishedAt": "2026-10-23T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-045/",
+      "publishedAt": "2026-10-26T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (23 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+      "title": "Vulnérabilité dans Citrix XenServer (26 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Citrix XenServer. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1374/",
-      "publishedAt": "2026-10-23T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1384/",
+      "publishedAt": "2026-10-26T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (23 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "title": "Multiples vulnérabilités dans les produits VMware (26 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1376/",
-      "publishedAt": "2026-10-23T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1385/",
+      "publishedAt": "2026-10-26T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans les produits SUSE (23 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "title": "Vulnérabilité dans les produits Microsoft (26 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1372/",
-      "publishedAt": "2026-10-23T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1383/",
+      "publishedAt": "2026-10-26T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans les produits IBM (23 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "title": "Multiples vulnérabilités dans les produits MongoDB (26 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1378/",
-      "publishedAt": "2026-10-23T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1386/",
+      "publishedAt": "2026-10-26T00:00:00Z"
     },
     {
       "axis": "security",
