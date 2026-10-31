@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-10-30T14:51:37Z",
+  "updatedAt": "2026-10-31T14:19:38Z",
   "articles": [
+    {
+      "axis": "systems",
+      "title": "Le PAM face au défi des identités non humaines",
+      "summary": "Le PAM face aux identités non humaines : comment limiter les droits des agents IA et des comptes de service, et tracer leurs actions.",
+      "source": "IT-Connect",
+      "url": "https://www.it-connect.fr/le-pam-face-au-defi-des-identites-non-humaines/",
+      "publishedAt": "2026-10-30T16:15:00Z"
+    },
     {
       "axis": "ai-cyber",
       "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
@@ -8,14 +16,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
       "publishedAt": "2026-10-30T14:41:35Z"
-    },
-    {
-      "axis": "ai-cyber",
-      "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
-      "summary": "Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
-      "publishedAt": "2026-10-30T08:16:26Z"
     },
     {
       "axis": "systems",
@@ -34,68 +34,52 @@
       "publishedAt": "2026-10-29T17:00:00Z"
     },
     {
-      "axis": "systems",
-      "title": "Ginux : avec l’IA, le fondateur de CentOS crée en 11 jours un noyau Rust compatible Linux",
-      "summary": "Le fondateur de CentOS et Rocky Linux dévoile Ginux, un noyau en Rust compatible Linux (mais qui n'est pas Linux), développé avec l'aide de l'IA en 11 jours.",
-      "source": "IT-Connect",
-      "url": "https://www.it-connect.fr/ginux-noyau-rust-ia-fondateur-centos-rocky-linux/",
-      "publishedAt": "2026-10-29T06:33:41Z"
+      "axis": "security",
+      "title": "Multiples vulnérabilités dans Metabase (28 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Metabase. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source": "CERT-FR",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1403/",
+      "publishedAt": "2026-10-28T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (27 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "title": "Multiples vulnérabilités dans les produits Veeam (28 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1395/",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1399/",
+      "publishedAt": "2026-10-28T00:00:00Z"
+    },
+    {
+      "axis": "security",
+      "title": "Multiples vulnérabilités dans Palo Alto Networks PAN-OS (28 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Palo Alto Networks PAN-OS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. Palo Alto Networks indique que les vulnérabilités CVE-2026-109618 et CVE-2026-109619 sont ",
+      "source": "CERT-FR",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1402/",
+      "publishedAt": "2026-10-28T00:00:00Z"
+    },
+    {
+      "axis": "security",
+      "title": "Vulnérabilité dans CPython (28 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "source": "CERT-FR",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1397/",
+      "publishedAt": "2026-10-28T00:00:00Z"
+    },
+    {
+      "axis": "security",
+      "title": "Multiples vulnérabilités dans Google Chrome (28 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "source": "CERT-FR",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1398/",
+      "publishedAt": "2026-10-28T00:00:00Z"
+    },
+    {
+      "axis": "security",
+      "title": "Vulnérabilité dans les produits Palo Alto Networks (27 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits Palo Alto Networks. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source": "CERT-FR",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1396/",
       "publishedAt": "2026-10-27T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Multiples vulnérabilités dans GLPI (27 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans GLPI. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection SQL (SQLi) et une injection de code indirecte à distance (XSS).",
-      "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1389/",
-      "publishedAt": "2026-10-27T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-045 (26 octobre 2026)",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques ",
-      "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-045/",
-      "publishedAt": "2026-10-26T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Vulnérabilité dans Citrix XenServer (26 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Citrix XenServer. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1384/",
-      "publishedAt": "2026-10-26T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Multiples vulnérabilités dans les produits VMware (26 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1385/",
-      "publishedAt": "2026-10-26T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Vulnérabilité dans les produits Microsoft (26 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-      "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1383/",
-      "publishedAt": "2026-10-26T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Multiples vulnérabilités dans les produits MongoDB (26 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1386/",
-      "publishedAt": "2026-10-26T00:00:00Z"
     },
     {
       "axis": "security",
@@ -104,6 +88,14 @@
       "source": "CERT-FR",
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-014/",
       "publishedAt": "2026-10-21T00:00:00Z"
+    },
+    {
+      "axis": "security",
+      "title": "Campagne de notifications de menace envoyée par Apple (11 septembre 2025)",
+      "summary": "Depuis 2021, Apple envoie des campagnes de notifications aux individus ciblés par des attaques menées à l’aide de logiciels espions. Ces logiciels, tels que Pegasus, Predator, Graphite ou Triangulation sont particulièrement sophistiqués et difficiles à détecte",
+      "source": "CERT-FR",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-010/",
+      "publishedAt": "2025-09-11T00:00:00Z"
     }
   ]
 }
