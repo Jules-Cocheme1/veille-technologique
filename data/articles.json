@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-01T14:46:20Z",
+  "updatedAt": "2026-11-02T17:52:04Z",
   "articles": [
+    {
+      "axis": "ai-cyber",
+      "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
+      "summary": "The attackers used offensive agentic techniques to access the company’s systems and internal tools.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
+      "publishedAt": "2026-11-02T10:27:49Z"
+    },
+    {
+      "axis": "systems",
+      "title": "Cloud & Cyber Security Expo Paris 2026 : les grands enjeux cyber au cœur du programme",
+      "summary": "IA, gestion des incidents, NIS2, CRA et géopolitique : découvrez les thèmes des conférences de Cloud & Cyber Security Expo Paris, les 18 et 19 novembre 2026.",
+      "source": "IT-Connect",
+      "url": "https://www.it-connect.fr/cloud-cyber-security-expo-paris-2026-programme/",
+      "publishedAt": "2026-11-02T10:00:00Z"
+    },
+    {
+      "axis": "systems",
+      "title": "Proton s’excuse et tente de s’expliquer : ses outils IA internes bientôt en open source",
+      "summary": "Après l'enquête de 404 Media, Proton sort du silence : démentis, excuses et promesse d'ouvrir les coulisses de son usage de l'IA. Voici ce qu'il faut retenir.",
+      "source": "IT-Connect",
+      "url": "https://www.it-connect.fr/proton-excuses-ia-open-source-lumo/",
+      "publishedAt": "2026-11-02T06:08:21Z"
+    },
+    {
+      "axis": "systems",
+      "title": "Reddit va réserver ses contenus aux utilisateurs connectés pour freiner le scraping (et l’IA)",
+      "summary": "Reddit va progressivement réserver ses contenus aux utilisateurs connectés, avec des tests hors des États-Unis. Scraping, publicité : voici ce que l'on sait.",
+      "source": "IT-Connect",
+      "url": "https://www.it-connect.fr/reddit-connexion-obligatoire-scraping/",
+      "publishedAt": "2026-11-02T05:49:21Z"
+    },
     {
       "axis": "ai-cyber",
       "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
@@ -18,84 +50,60 @@
       "publishedAt": "2026-10-30T16:15:00Z"
     },
     {
-      "axis": "ai-cyber",
-      "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
-      "summary": "Noteworthy stories that might have slipped under the radar: Iran eyed in military freezer hacks, Copenhagen University breach, AI-powered malware.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
-      "publishedAt": "2026-10-30T14:41:35Z"
-    },
-    {
-      "axis": "systems",
-      "title": "Proton : 90 % du code écrit par l’IA, et pour le CEO, vouloir tester la sécurité est une mentalité de losers",
-      "summary": "90 % du code de Proton serait écrit par l’IA, et son CEO, Andy Yen, balaie une demande de tests de sécurité en parlant d'une mentalité de losers.",
-      "source": "IT-Connect",
-      "url": "https://www.it-connect.fr/proton-andy-yen-ia-code/",
-      "publishedAt": "2026-10-30T06:47:34Z"
-    },
-    {
-      "axis": "systems",
-      "title": "REA : j’ai testé la rétro-ingénierie pilotée par l’IA avec Claude Code",
-      "summary": "Découvrez REA, le serveur MCP qui permet à Claude Code ou Codex de piloter Ghidra et d'autres outils : installation, cadre légal et démo de rétro-ingénierie.",
-      "source": "IT-Connect",
-      "url": "https://www.it-connect.fr/rea-retro-ingenierie-ia-ghidra/",
-      "publishedAt": "2026-10-29T17:00:00Z"
+      "axis": "security",
+      "title": "Vulnérabilité dans les produits Cisco (29 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76418 est activement exploitée.",
+      "source": "CERT-FR",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1412/",
+      "publishedAt": "2026-10-29T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans Metabase (28 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Metabase. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "title": "Vulnérabilité dans les produits NetApp (29 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une élévation de privilèges.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1403/",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1410/",
+      "publishedAt": "2026-10-29T00:00:00Z"
+    },
+    {
+      "axis": "security",
+      "title": "Multiples vulnérabilités dans Veeam Backup for Microsoft 365 (29 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Veeam Backup for Microsoft 365. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité de",
+      "source": "CERT-FR",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1411/",
+      "publishedAt": "2026-10-29T00:00:00Z"
+    },
+    {
+      "axis": "security",
+      "title": "Vulnérabilité dans les produits Belden (28 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "source": "CERT-FR",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1407/",
       "publishedAt": "2026-10-28T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans les produits Veeam (28 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "title": "Vulnérabilité dans Axis Camera Station Pro (28 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Axis Camera Station Pro. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1399/",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1408/",
       "publishedAt": "2026-10-28T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans Palo Alto Networks PAN-OS (28 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Palo Alto Networks PAN-OS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. Palo Alto Networks indique que les vulnérabilités CVE-2026-109618 et CVE-2026-109619 sont ",
+      "title": "Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indir",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1402/",
-      "publishedAt": "2026-10-28T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1340/",
+      "publishedAt": "2026-10-19T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Vulnérabilité dans CPython (28 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "title": "[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure (ICS) (14 octobre 2026)",
+      "summary": "[Mise à jour du 2 novembre 2026] Le 29 octobre 2026, Ivanti a mis à jour son avis de sécurité du 13 octobre 2026 pour ajouter deux vulnérabilités (CVE-2026-111357 et CVE-2026-118527). Celles-ci permettent à un attaquant authentifié d'élever ses privilèges et d",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1397/",
-      "publishedAt": "2026-10-28T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Multiples vulnérabilités dans Google Chrome (28 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1398/",
-      "publishedAt": "2026-10-28T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Vulnérabilité dans les produits Palo Alto Networks (27 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits Palo Alto Networks. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1396/",
-      "publishedAt": "2026-10-27T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
-      "summary": "**[Mise à jour du 26 octobre 2026]** Le 23 octobre 2026, PHP a publié un avis de sécurité concernant la vulnérabilité CVE-2026-115560. Celle-ci permet une exécution de code arbitraire à distance. L'éditeur estime que les conditions d'exploitation exigent une c",
-      "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-014/",
-      "publishedAt": "2026-10-21T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-013/",
+      "publishedAt": "2026-10-14T00:00:00Z"
     },
     {
       "axis": "security",
