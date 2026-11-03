@@ -1,13 +1,29 @@
 {
-  "updatedAt": "2026-11-02T17:52:04Z",
+  "updatedAt": "2026-11-03T15:51:38Z",
   "articles": [
     {
       "axis": "ai-cyber",
-      "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
-      "summary": "The attackers used offensive agentic techniques to access the company’s systems and internal tools.",
+      "title": "CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode",
+      "summary": "The acquisitions will add AI agent observability and automated AI security testing capabilities to the CrowdStrike Falcon platform.",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
-      "publishedAt": "2026-11-02T10:27:49Z"
+      "url": "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/",
+      "publishedAt": "2026-11-03T14:12:44Z"
+    },
+    {
+      "axis": "ai-cyber",
+      "title": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028",
+      "summary": "The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/",
+      "publishedAt": "2026-11-03T09:49:12Z"
+    },
+    {
+      "axis": "ai-cyber",
+      "title": "NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training",
+      "summary": "The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/",
+      "publishedAt": "2026-11-03T08:49:03Z"
     },
     {
       "axis": "systems",
@@ -34,22 +50,6 @@
       "publishedAt": "2026-11-02T05:49:21Z"
     },
     {
-      "axis": "ai-cyber",
-      "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
-      "summary": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
-      "publishedAt": "2026-11-01T11:15:00Z"
-    },
-    {
-      "axis": "systems",
-      "title": "Le PAM face au défi des identités non humaines",
-      "summary": "Le PAM face aux identités non humaines : comment limiter les droits des agents IA et des comptes de service, et tracer leurs actions.",
-      "source": "IT-Connect",
-      "url": "https://www.it-connect.fr/le-pam-face-au-defi-des-identites-non-humaines/",
-      "publishedAt": "2026-10-30T16:15:00Z"
-    },
-    {
       "axis": "security",
       "title": "Vulnérabilité dans les produits Cisco (29 octobre 2026)",
       "summary": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76418 est activement exploitée.",
@@ -59,35 +59,35 @@
     },
     {
       "axis": "security",
-      "title": "Vulnérabilité dans les produits NetApp (29 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+      "title": "Multiples vulnérabilités dans Elastic Cloud Enterprise (29 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Elastic Cloud Enterprise. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1410/",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1419/",
       "publishedAt": "2026-10-29T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans Veeam Backup for Microsoft 365 (29 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Veeam Backup for Microsoft 365. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité de",
+      "title": "Vulnérabilité dans les produits Kaspersky (29 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits Kaspersky. Elle permet à un attaquant de provoquer un déni de service.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1411/",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1417/",
       "publishedAt": "2026-10-29T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Vulnérabilité dans les produits Belden (28 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "title": "Multiples vulnérabilités dans PostgreSQL Anonymizer (29 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans PostgreSQL Anonymizer. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécur",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1407/",
-      "publishedAt": "2026-10-28T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1413/",
+      "publishedAt": "2026-10-29T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Vulnérabilité dans Axis Camera Station Pro (28 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Axis Camera Station Pro. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "title": "Multiples vulnérabilités dans les produits Juniper Networks (29 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1408/",
-      "publishedAt": "2026-10-28T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1414/",
+      "publishedAt": "2026-10-29T00:00:00Z"
     },
     {
       "axis": "security",
