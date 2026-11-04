@@ -1,29 +1,45 @@
 {
-  "updatedAt": "2026-11-03T15:51:38Z",
+  "updatedAt": "2026-11-04T15:58:42Z",
   "articles": [
     {
       "axis": "ai-cyber",
-      "title": "CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode",
-      "summary": "The acquisitions will add AI agent observability and automated AI security testing capabilities to the CrowdStrike Falcon platform.",
+      "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
+      "summary": "Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems.",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/",
-      "publishedAt": "2026-11-03T14:12:44Z"
+      "url": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
+      "publishedAt": "2026-11-04T14:34:44Z"
     },
     {
       "axis": "ai-cyber",
-      "title": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028",
-      "summary": "The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity.",
+      "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
+      "summary": "Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks.",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/",
-      "publishedAt": "2026-11-03T09:49:12Z"
+      "url": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
+      "publishedAt": "2026-11-04T12:43:20Z"
     },
     {
-      "axis": "ai-cyber",
-      "title": "NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training",
-      "summary": "The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/",
-      "publishedAt": "2026-11-03T08:49:03Z"
+      "axis": "systems",
+      "title": "Pas d’IA, pas de recherche Google : c’est ce que veut imposer Google aux écoles",
+      "summary": "Gemini et Google Search seront désactivés par défaut sur les comptes élèves. Une école qui refuse l'IA de Google perdra aussi l'accès au moteur de recherche.",
+      "source": "IT-Connect",
+      "url": "https://www.it-connect.fr/google-ecoles-ia-gemini-recherche-desactivee/",
+      "publishedAt": "2026-11-04T09:32:03Z"
+    },
+    {
+      "axis": "systems",
+      "title": "Cloudflare security-audit : prendre en main la skill d’audit de sécurité pour agents IA",
+      "summary": "Découvrez la skill open source security-audit de Cloudflare pour auditer votre code avec Claude Code et l'IA afin de débusquer des failles.",
+      "source": "IT-Connect",
+      "url": "https://www.it-connect.fr/cloudflare-security-audit-skill-audit-de-securite-agents-ia/",
+      "publishedAt": "2026-11-04T08:45:00Z"
+    },
+    {
+      "axis": "systems",
+      "title": "Patch gap : Mozilla va décaler les correctifs de Firefox pour empêcher l’IA de les transformer en exploits",
+      "summary": "Un correctif visible dans le code, mais pas encore sur vos postes : une brèche que l'IA sait désormais exploiter dans Firefox. Mozilla riposte. Voici comment.",
+      "source": "IT-Connect",
+      "url": "https://www.it-connect.fr/firefox-patch-gap-ia-correctifs-mozilla/",
+      "publishedAt": "2026-11-04T07:26:00Z"
     },
     {
       "axis": "systems",
@@ -34,60 +50,44 @@
       "publishedAt": "2026-11-02T10:00:00Z"
     },
     {
-      "axis": "systems",
-      "title": "Proton s’excuse et tente de s’expliquer : ses outils IA internes bientôt en open source",
-      "summary": "Après l'enquête de 404 Media, Proton sort du silence : démentis, excuses et promesse d'ouvrir les coulisses de son usage de l'IA. Voici ce qu'il faut retenir.",
-      "source": "IT-Connect",
-      "url": "https://www.it-connect.fr/proton-excuses-ia-open-source-lumo/",
-      "publishedAt": "2026-11-02T06:08:21Z"
-    },
-    {
-      "axis": "systems",
-      "title": "Reddit va réserver ses contenus aux utilisateurs connectés pour freiner le scraping (et l’IA)",
-      "summary": "Reddit va progressivement réserver ses contenus aux utilisateurs connectés, avec des tests hors des États-Unis. Scraping, publicité : voici ce que l'on sait.",
-      "source": "IT-Connect",
-      "url": "https://www.it-connect.fr/reddit-connexion-obligatoire-scraping/",
-      "publishedAt": "2026-11-02T05:49:21Z"
+      "axis": "security",
+      "title": "Multiples vulnérabilités dans les produits IBM (30 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "source": "CERT-FR",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1433/",
+      "publishedAt": "2026-10-30T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Vulnérabilité dans les produits Cisco (29 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76418 est activement exploitée.",
+      "title": "Vulnérabilité dans Stormshield Management Center (30 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Stormshield Management Center. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1412/",
-      "publishedAt": "2026-10-29T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1429/",
+      "publishedAt": "2026-10-30T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans Elastic Cloud Enterprise (29 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Elastic Cloud Enterprise. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (30 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1419/",
-      "publishedAt": "2026-10-29T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1432/",
+      "publishedAt": "2026-10-30T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Vulnérabilité dans les produits Kaspersky (29 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits Kaspersky. Elle permet à un attaquant de provoquer un déni de service.",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (30 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1417/",
-      "publishedAt": "2026-10-29T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1431/",
+      "publishedAt": "2026-10-30T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans PostgreSQL Anonymizer (29 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans PostgreSQL Anonymizer. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécur",
+      "title": "Multiples vulnérabilités dans les produits MongoDB (30 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection SQL (SQLi) et un contournement de la politique de sécurité.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1413/",
-      "publishedAt": "2026-10-29T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Multiples vulnérabilités dans les produits Juniper Networks (29 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1414/",
-      "publishedAt": "2026-10-29T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1430/",
+      "publishedAt": "2026-10-30T00:00:00Z"
     },
     {
       "axis": "security",
