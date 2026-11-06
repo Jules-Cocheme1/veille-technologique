@@ -1,21 +1,37 @@
 {
-  "updatedAt": "2026-11-04T15:58:42Z",
+  "updatedAt": "2026-11-06T15:41:24Z",
   "articles": [
     {
       "axis": "ai-cyber",
-      "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
-      "summary": "Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems.",
+      "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
+      "summary": "Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands.",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
-      "publishedAt": "2026-11-04T14:34:44Z"
+      "url": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
+      "publishedAt": "2026-11-06T14:40:09Z"
+    },
+    {
+      "axis": "systems",
+      "title": "OpenAI lance GPT-6 Cyber : son modèle IA taillé pour trouver et exploiter des failles",
+      "summary": "OpenAI lance GPT-6 Cyber, réservé à Daybreak Red : 948 exploits Linux, 81 failles graves dans Firefox et un modèle entraîné à rester dans son périmètre.",
+      "source": "IT-Connect",
+      "url": "https://www.it-connect.fr/openai-gpt-6-cyber-exploits-linux-firefox-daybreak-red/",
+      "publishedAt": "2026-11-06T06:05:44Z"
     },
     {
       "axis": "ai-cyber",
-      "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
-      "summary": "Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks.",
+      "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+      "summary": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million.",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
-      "publishedAt": "2026-11-04T12:43:20Z"
+      "url": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+      "publishedAt": "2026-11-05T17:32:37Z"
+    },
+    {
+      "axis": "systems",
+      "title": "CleanYourTV : comment nettoyer une box Android TV avec l’IA (sans root)",
+      "summary": "Supprimez les pubs de l'accueil de votre box Android TV avec CleanYourTV et Claude Code, ou une app gratuite : ADB, prérequis, thèmes et précautions.",
+      "source": "IT-Connect",
+      "url": "https://www.it-connect.fr/cleanyourtv-nettoyer-box-android-tv/",
+      "publishedAt": "2026-11-05T17:00:00Z"
     },
     {
       "axis": "systems",
@@ -34,60 +50,60 @@
       "publishedAt": "2026-11-04T08:45:00Z"
     },
     {
-      "axis": "systems",
-      "title": "Patch gap : Mozilla va décaler les correctifs de Firefox pour empêcher l’IA de les transformer en exploits",
-      "summary": "Un correctif visible dans le code, mais pas encore sur vos postes : une brèche que l'IA sait désormais exploiter dans Firefox. Mozilla riposte. Voici comment.",
-      "source": "IT-Connect",
-      "url": "https://www.it-connect.fr/firefox-patch-gap-ia-correctifs-mozilla/",
-      "publishedAt": "2026-11-04T07:26:00Z"
-    },
-    {
-      "axis": "systems",
-      "title": "Cloud & Cyber Security Expo Paris 2026 : les grands enjeux cyber au cœur du programme",
-      "summary": "IA, gestion des incidents, NIS2, CRA et géopolitique : découvrez les thèmes des conférences de Cloud & Cyber Security Expo Paris, les 18 et 19 novembre 2026.",
-      "source": "IT-Connect",
-      "url": "https://www.it-connect.fr/cloud-cyber-security-expo-paris-2026-programme/",
-      "publishedAt": "2026-11-02T10:00:00Z"
+      "axis": "security",
+      "title": "Multiples vulnérabilités dans les produits Symfony (04 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Symfony. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécuri",
+      "source": "CERT-FR",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1460/",
+      "publishedAt": "2026-11-04T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans les produits IBM (30 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "title": "Multiples vulnérabilités dans Apache Zookeeper (04 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Zookeeper. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1433/",
-      "publishedAt": "2026-10-30T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1448/",
+      "publishedAt": "2026-11-04T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Vulnérabilité dans Stormshield Management Center (30 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Stormshield Management Center. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "title": "Multiples vulnérabilités dans NetApp ONTAP 9 (03 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans NetApp ONTAP 9. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1429/",
-      "publishedAt": "2026-10-30T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1446/",
+      "publishedAt": "2026-11-03T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (30 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.",
+      "title": "Multiples vulnérabilités dans GLPI (03 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une élévation de privilèges, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1432/",
-      "publishedAt": "2026-10-30T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1444/",
+      "publishedAt": "2026-11-03T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (30 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "title": "Multiples vulnérabilités dans PostgreSQL (03 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une injection SQL (SQLi), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1431/",
-      "publishedAt": "2026-10-30T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1445/",
+      "publishedAt": "2026-11-03T00:00:00Z"
     },
     {
       "axis": "security",
-      "title": "Multiples vulnérabilités dans les produits MongoDB (30 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection SQL (SQLi) et un contournement de la politique de sécurité.",
+      "title": "Multiples vulnérabilités dans Xen (03 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
       "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1430/",
-      "publishedAt": "2026-10-30T00:00:00Z"
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1447/",
+      "publishedAt": "2026-11-03T00:00:00Z"
+    },
+    {
+      "axis": "security",
+      "title": "Multiples vulnérabilités dans Google Android (03 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "source": "CERT-FR",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1443/",
+      "publishedAt": "2026-11-03T00:00:00Z"
     },
     {
       "axis": "security",
@@ -96,22 +112,6 @@
       "source": "CERT-FR",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1340/",
       "publishedAt": "2026-10-19T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure (ICS) (14 octobre 2026)",
-      "summary": "[Mise à jour du 2 novembre 2026] Le 29 octobre 2026, Ivanti a mis à jour son avis de sécurité du 13 octobre 2026 pour ajouter deux vulnérabilités (CVE-2026-111357 et CVE-2026-118527). Celles-ci permettent à un attaquant authentifié d'élever ses privilèges et d",
-      "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-013/",
-      "publishedAt": "2026-10-14T00:00:00Z"
-    },
-    {
-      "axis": "security",
-      "title": "Campagne de notifications de menace envoyée par Apple (11 septembre 2025)",
-      "summary": "Depuis 2021, Apple envoie des campagnes de notifications aux individus ciblés par des attaques menées à l’aide de logiciels espions. Ces logiciels, tels que Pegasus, Predator, Graphite ou Triangulation sont particulièrement sophistiqués et difficiles à détecte",
-      "source": "CERT-FR",
-      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-010/",
-      "publishedAt": "2025-09-11T00:00:00Z"
     }
   ]
 }
