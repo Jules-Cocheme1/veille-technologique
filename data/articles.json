@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-11-06T15:41:24Z",
+  "updatedAt": "2026-11-07T14:42:08Z",
   "articles": [
+    {
+      "axis": "systems",
+      "title": "LiberNT : ni Windows, ni Linux, qu’est-ce que cet OS open source ?",
+      "summary": "J'ai testé LiberNT dans une machine virtuelle, un OS libre basé sur ReactOS qui veut ressembler à Windows 11 : bureau, applications et même un terminal Linux.",
+      "source": "IT-Connect",
+      "url": "https://www.it-connect.fr/libernt-test-os-libre-windows-11/",
+      "publishedAt": "2026-11-07T07:30:00Z"
+    },
+    {
+      "axis": "systems",
+      "title": "Test Reolink OMVI 3i WiFi : une caméra triple objectif avec suivi automatique",
+      "summary": "Test de la Reolink OMVI 3i WiFi : une caméra triple objectif avec vue panoramique à 180°, caméra PT 4K, suivi automatique, IA locale et Wi-Fi 6.",
+      "source": "IT-Connect",
+      "url": "https://www.it-connect.fr/test-reolink-omvi-3i-wifi/",
+      "publishedAt": "2026-11-07T07:00:00Z"
+    },
     {
       "axis": "ai-cyber",
       "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
@@ -18,36 +34,12 @@
       "publishedAt": "2026-11-06T06:05:44Z"
     },
     {
-      "axis": "ai-cyber",
-      "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
-      "summary": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
-      "publishedAt": "2026-11-05T17:32:37Z"
-    },
-    {
       "axis": "systems",
       "title": "CleanYourTV : comment nettoyer une box Android TV avec l’IA (sans root)",
       "summary": "Supprimez les pubs de l'accueil de votre box Android TV avec CleanYourTV et Claude Code, ou une app gratuite : ADB, prérequis, thèmes et précautions.",
       "source": "IT-Connect",
       "url": "https://www.it-connect.fr/cleanyourtv-nettoyer-box-android-tv/",
       "publishedAt": "2026-11-05T17:00:00Z"
-    },
-    {
-      "axis": "systems",
-      "title": "Pas d’IA, pas de recherche Google : c’est ce que veut imposer Google aux écoles",
-      "summary": "Gemini et Google Search seront désactivés par défaut sur les comptes élèves. Une école qui refuse l'IA de Google perdra aussi l'accès au moteur de recherche.",
-      "source": "IT-Connect",
-      "url": "https://www.it-connect.fr/google-ecoles-ia-gemini-recherche-desactivee/",
-      "publishedAt": "2026-11-04T09:32:03Z"
-    },
-    {
-      "axis": "systems",
-      "title": "Cloudflare security-audit : prendre en main la skill d’audit de sécurité pour agents IA",
-      "summary": "Découvrez la skill open source security-audit de Cloudflare pour auditer votre code avec Claude Code et l'IA afin de débusquer des failles.",
-      "source": "IT-Connect",
-      "url": "https://www.it-connect.fr/cloudflare-security-audit-skill-audit-de-securite-agents-ia/",
-      "publishedAt": "2026-11-04T08:45:00Z"
     },
     {
       "axis": "security",
